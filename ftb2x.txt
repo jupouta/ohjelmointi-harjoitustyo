@@ -1,0 +1,1901 @@
+#FinnTreeBank_2/news-samples_tab.txt0000664000175000017500000010132711737521777016335 0ustar  atroatro1
+
+#None
+1	Arizonalaisia	Arizonalaisia	arizonalainen	A	A|Pl|Par	2	subj	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+2	kokoontui	kokoontui	kokoontua	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+3	sunnuntaina	sunnuntaina	sunnuntai	N	N|Sg|Ess	2	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+4	Gabrielle	Gabrielle	Gabrielle	N	N|Prop|Sg|Nom	5	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+5	Giffordsin	Giffordsin	Giffords	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	toimiston	toimiston	toimisto	N	N|Sg|Gen	2	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	eteen	eteen	eteen	Adp	Adp	6	phrm	[POS=ADPOSITION]	_
+8	Tucsonissa	Tucsonissa	Tucson	N	N|Prop|Sg|Ine	2	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+9	sytyttämään	sytyttämään	sytyttää	V	V|Act|InfMa|Ill	2	advl	[POS=VERB][VOICE=ACT][INF=MA][CASE=ILL]	_
+10	kynttilöitä	kynttilöitä	kynttilä	N	N|Pl|Par	9	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+11	ja	ja	ja	Pcle	Pcle|CC	12	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+12	toivottamaan	toivottamaan	toivottaa	V	V|Act|InfMa|Ill	9	conjunct	[POS=VERB][VOICE=ACT][INF=MA][CASE=ILL]	_
+13	pikaista	pikaista	pikainen	A	A|Sg|Par	14	attr	[POS=ADJECTIVE][NUM=SG][CASE=PAR]	_
+14	paranemista	paranemista	paraneminen	N	N|Sg|Par	12	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Giffordsin	Giffordsin	Giffords	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	lääkärit	lääkärit	lääkäri	N	N|Pl|Nom	3	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+3	antoivat	antoivat	antaa	V	V|Act|Ind|Past|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+4	toivoa	toivoa	toivo	N	N|Sg|Par	3	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+5	.	.	.	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Tucson	Tucson	Tucson	N	N|Prop|Sg|Nom	0	main	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	.	.	.	Pun	Pun	1	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Arizonassa	Arizonassa	Arizona	N	N|Prop|Sg|Ine	3	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+2	lauantaina	lauantaina	lauantai	N	N|Sg|Ess	3	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+3	ammutun	ammutun	ampua	V	V|Pass|PcpNut|Sg|Gen	4	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=GEN]	_
+4	kongressiedustajan	kongressiedustajan	kongressiedustaja	N	N|Sg|Gen	6	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+5	Gabrielle	Gabrielle	Gabrielle	N	N|Prop|Sg|Nom	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+6	Giffordsin	Giffordsin	Giffords	N	N|Prop|Sg|Gen	7	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+7	tila	tila	tila	N	N|Sg|Nom	8	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+8	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+9	yhä	yhä	yhä	Pcle	Pcle	8	advl	[POS=PARTICLE]	_
+10	kriittinen	kriittinen	kriittinen	A	A|Sg|Nom	8	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+11	.	.	.	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Luoti	Luoti	luoti	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	läpäisi	läpäisi	läpäistä	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+3	hänen	hänen	hän	Pron	Pron|Pers|Sg3|Gen	4	attr	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=GEN]	_
+4	aivonsa	aivonsa	aivot	N	N|Pl|Nom|Px3	2	obj	[POS=NOUN][NUM=PL][CASE=NOM][POSS=3]	_
+5	vasemmalta	vasemmalta	vasen	A	A|Sg|Abl	6	attr	[POS=ADJECTIVE][NUM=SG][CASE=ABL]	_
+6	puolelta	puolelta	puoli	N	N|Sg|Abl	2	advl	[POS=NOUN][NUM=SG][CASE=ABL]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Giffordsin	Giffordsin	Giffords	N	N|Prop|Sg|Gen	3	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	hengissä	hengissä	hengissä	Adv	Adv	3	advl	[POS=ADVERB]	_
+3	säilymistä	säilymistä	säilyminen	N	N|Sg|Par	4	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+4	pidetään	pidetään	pitää	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+5	pienenä	pienenä	pieni	A	A|Sg|Ess	6	attr	[POS=ADJECTIVE][NUM=SG][CASE=ESS]	_
+6	ihmeenä	ihmeenä	ihme	N	N|Sg|Ess	4	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	ABC-kanavan	ABC-kanavan	ABC-kanava	N	N|Sg|Gen	3	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	lääketieteellisen	lääketieteellisen	lääketieteellinen	A	A|Sg|Gen	3	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+3	asiantuntijan	asiantuntijan	asiantuntija	N	N|Sg|Gen	10	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+4	mukaan	mukaan	mukaan	Adp	Adp	3	phrm	[POS=ADPOSITION]	_
+5	kaksi	kaksi	kaksi	Num	Num|Card|Sg|Nom	6	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=NOM]	_
+6	kolmesta	kolmesta	kolme	Num	Num|Card|Sg|Ela	8	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=ELA]	_
+7	päähän	päähän	pää	N	N|Sg|Ill	8	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+8	ammutuista	ammutuista	ampua	V	V|Pass|PcpNut|Pl|Ela	9	subj	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=PL][CASE=ELA]	_
+9	ei	ei	ei	V	V|Neg|Act|Sg3	10	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+10	selviydy	selviydy	selviytyä	V	V|Act|Ind|Pres|ConNeg	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][NEG=CON]	_
+11	hengissä	hengissä	hengissä	Adv	Adv	10	advl	[POS=ADVERB]	_
+12	sairaalaan	sairaalaan	sairaala	N	N|Sg|Ill	10	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+13	asti	asti	asti	Adp	Adp	12	phrm	[POS=ADPOSITION]	_
+14	.	.	.	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Yksi	Yksi	yksi	Num	Num|Card|Sg|Nom	5	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=NOM]	_
+2	Giffordsin	Giffordsin	Giffords	N	N|Prop|Sg|Gen	4	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+3	hengissä	hengissä	hengissä	Adv	Adv	4	advl	[POS=ADVERB]	_
+4	säilymisen	säilymisen	säilyminen	N	N|Sg|Gen	5	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+5	syy	syy	syy	N	N|Sg|Nom	6	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+6	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+7	toiminnan	toiminnan	toiminta	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	nopeus	nopeus	nopeus	N	N|Sg|Nom	6	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Heti	Heti	heti	Adv	Adv	2	attr	[POS=ADVERB]	_
+2	ampumisen	ampumisen	ampuminen	N	N|Sg|Gen	5	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+3	jälkeen	jälkeen	jälkeen	Adp	Adp	2	phrm	[POS=ADPOSITION]	_
+4	hän	hän	hän	Pron	Pron|Pers|Sg3|Nom	5	subj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=NOM]	_
+5	sai	sai	saada	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+6	asiantuntevaa	asiantuntevaa	asiantunteva	A	A|Sg|Par	7	attr	[POS=ADJECTIVE][NUM=SG][CASE=PAR]	_
+7	ensiapua	ensiapua	ensiapu	N	N|Sg|Par	5	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	jolla	jolla	joka	Pron	Pron|Rel|Sg|Ade	12	advl	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=ADE]	_
+10	esimerkiksi	esimerkiksi	esimerkiksi	Adv	Adv	12	advl	[POS=ADVERB]	_
+11	häntä	häntä	hän	Pron	Pron|Pers|Sg3|Par	12	obj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=PAR]	_
+12	estettiin	estettiin	estää	V	V|Pass|Ind|Past	7	mod	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+13	tukehtumasta	tukehtumasta	tukehtua	V	V|Act|InfMa|Ela	12	advl	[POS=VERB][VOICE=ACT][INF=MA][CASE=ELA]	_
+14	omaan	omaan	oma	A	A|Sg|Ill	15	attr	[POS=ADJECTIVE][NUM=SG][CASE=ILL]	_
+15	vereensä	vereensä	veri	N	N|Sg|Ill|Px3	13	advl	[POS=NOUN][NUM=SG][CASE=ILL][POSS=3]	_
+16	.	.	.	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Hän	Hän	hän	Pron	Pron|Pers|Sg3|Nom	2	subj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=NOM]	_
+2	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+3	tucsonilaisen	tucsonilaisen	tucsonilainen	A	A|Sg|Gen	4	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+4	sairaalan	sairaalan	sairaala	N	N|Sg|Gen	5	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+5	leikkauspöydällä	leikkauspöydällä	leikkauspöytä	N	N|Sg|Ade	2	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+6	vain	vain	vain	Pcle	Pcle	7	attr	[POS=PARTICLE]	_
+7	38	38	38	Num	Num|Card	8	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+8	minuutin	minuutin	minuutti	N	N|Sg|Gen	2	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+9	kuluttua	kuluttua	kuluttua	Adp	Adp	8	phrm	[POS=ADPOSITION]	_
+10	ampumisesta	ampumisesta	ampuminen	N	N|Sg|Ela	8	mod	[POS=NOUN][NUM=SG][CASE=ELA]	_
+11	.	.	.	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Lisäksi	Lisäksi	lisäksi	Adv	Adv	3	advl	[POS=ADVERB]	_
+2	luoti	luoti	luoti	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	kulki	kulki	kulkea	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	vain	vain	vain	Pcle	Pcle	5	attr	[POS=PARTICLE]	_
+5	toisella	toisella	toinen	Pron	Pron|Qnt|Sg|Ade	6	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=ADE]	_
+6	puolella	puolella	puoli	N	N|Sg|Ade	7	attr	[POS=NOUN][NUM=SG][CASE=ADE]	_
+7	aivoja	aivoja	aivot	N	N|Pl|Par	3	advl	[POS=NOUN][NUM=PL][CASE=PAR]	_
+8	eikä	eikä	ei	V	V|Neg|Act|Sg3|Ka	9	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3][CLIT=KA]	_
+9	osunut	osunut	osua	V	V|Act|Ind|Past|Sg|ConNeg	3	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][NUM=SG][NEG=CON]	_
+10	matkallaan	matkallaan	matka	N	N|Sg|Ade|Px3	9	advl	[POS=NOUN][NUM=SG][CASE=ADE][POSS=3]	_
+11	elintärkeitä	elintärkeitä	elintärkeä	A	A|Pl|Par	12	attr	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+12	toimintoja	toimintoja	toiminto	N	N|Pl|Par	13	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+13	ylläpitäviin	ylläpitäviin	ylläpitää	V	V|Act|PcpVa|Pl|Ill	14	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=ILL]	_
+14	osiin	osiin	osa	N	N|Pl|Ill	9	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Giffordsilla	Giffordsilla	Giffords	N	N|Prop|Sg|Ade	2	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ADE]	_
+2	kävi	kävi	käydä	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+3	myös	myös	myös	Pcle	Pcle	2	advl	[POS=PARTICLE]	_
+4	onni	onni	onni	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	siinä	siinä	se	Pron	Pron|Dem|Sg|Ine	6	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=INE]	_
+6	suhteessa	suhteessa	suhde	N	N|Sg|Ine	2	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+7	,	,	,	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+8	että	että	että	Pcle	Pcle|CS	12	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+9	luodin	luodin	luoti	N	N|Sg|Gen	12	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+10	mukana	mukana	mukana	Adp	Adp	9	phrm	[POS=ADPOSITION]	_
+11	ei	ei	ei	V	V|Neg|Act|Sg3	12	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+12	kulkeutunut	kulkeutunut	kulkeutua	V	V|Act|Ind|Past|Sg|ConNeg	6	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][NUM=SG][NEG=CON]	_
+13	kallonsiruja	kallonsiruja	kallonsiru	N	N|Pl|Par	11	subj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+14	aivoihin	aivoihin	aivot	N	N|Pl|Ill	12	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Ne	Ne	ne	Pron	Pron|Dem|Pl|Nom	2	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=PL][CASE=NOM]	_
+2	olisivat	olisivat	olla	V	V|Act|Cond|Pl3	3	aux	[POS=VERB][VOICE=ACT][MOOD=COND][PERS=PL3]	_
+3	aiheuttaneet	aiheuttaneet	aiheuttaa	V	V|Act|PcpNut|Pl|Nom	0	main	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=PL][CASE=NOM]	_
+4	lisätuhoja	lisätuhoja	lisätuho	N	N|Pl|Par	3	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+5	.	.	.	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+
+#None
+1	CNN-kanavan	CNN-kanavan	CNN-kanava	N	N|Sg|Gen	4	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	mukaan	mukaan	mukaan	Adp	Adp	1	phrm	[POS=ADPOSITION]	_
+3	Giffords	Giffords	Giffords	N	N|Prop|Sg|Nom	4	obj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+4	herätettiin	herätettiin	herättää	V	V|Pass|Ind|Past	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+5	leikkauksen	leikkauksen	leikkaus	N	N|Sg|Gen	4	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	jälkeen	jälkeen	jälkeen	Adp	Adp	5	phrm	[POS=ADPOSITION]	_
+7	hetkeksi	hetkeksi	hetki	N	N|Sg|Tra	4	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	ja	ja	ja	Pcle	Pcle|CC	11	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+10	hän	hän	hän	Pron	Pron|Pers|Sg3|Nom	11	subj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=NOM]	_
+11	pystyi	pystyi	pystyä	V	V|Act|Ind|Past|Sg3	4	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+12	pyydettäessä	pyydettäessä	pyytää	V	V|Pass|InfE|Ine	11	advl	[POS=VERB][VOICE=PSS][INF=E][CASE=INE]	_
+13	liikuttamaan	liikuttamaan	liikuttaa	V	V|Act|InfMa|Ill	11	advl	[POS=VERB][VOICE=ACT][INF=MA][CASE=ILL]	_
+14	sormiaan	sormiaan	sormi	N	N|Pl|Par|Px3	13	obj	[POS=NOUN][NUM=PL][CASE=PAR][POSS=3]	_
+15	ja	ja	ja	Pcle	Pcle|CC	18	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+16	hän	hän	hän	Pron	Pron|Pers|Sg3|Nom	18	subj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=NOM]	_
+17	myös	myös	myös	Pcle	Pcle	18	advl	[POS=PARTICLE]	_
+18	tunnisti	tunnisti	tunnistaa	V	V|Act|Ind|Past|Sg3	11	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+19	aviomiehensä	aviomiehensä	aviomies	N	N|Sg|Gen|Px3	18	obj	[POS=NOUN][NUM=SG][CASE=GEN][POSS=3]	_
+20	.	.	.	Pun	Pun	19	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Toistaiseksi	Toistaiseksi	toistaiseksi	Adv	Adv	4	advl	[POS=ADVERB]	_
+2	Giffords	Giffords	Giffords	N	N|Prop|Sg|Nom	4	obj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+3	kuitenkin	kuitenkin	kuitenkin	Pcle	Pcle	4	advl	[POS=PARTICLE]	_
+4	pidetään	pidetään	pitää	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+5	nukutettuna	nukutettuna	nukuttaa	V	V|Pass|PcpNut|Sg|Ess	4	advl	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=ESS]	_
+6	ja	ja	ja	Pcle	Pcle|CC	7	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+7	hengityskoneessa	hengityskoneessa	hengityskone	N	N|Sg|Ine	5	conjunct	[POS=NOUN][NUM=SG][CASE=INE]	_
+8	.	.	.	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Hänet	Hänet	hän	Pron	Pron|Pers|Sg3|Acc	2	obj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=ACC]	_
+2	herätetään	herätetään	herättää	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+3	aika	aika	aika	N	N|Sg|Nom	4	idiom	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	ajoin	ajoin	aika	N	N|Pl|Ins	2	advl	[POS=NOUN][NUM=PL][CASE=INS]	_
+5	,	,	,	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+6	jotta	jotta	jotta	Pcle	Pcle|CS	11	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+7	hänen	hänen	hän	Pron	Pron|Pers|Sg3|Gen	8	attr	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=GEN]	_
+8	tilansa	tilansa	tila	N	N|Sg|Gen|Px3	9	subj	[POS=NOUN][NUM=SG][CASE=GEN][POSS=3]	_
+9	etenemistä	etenemistä	eteneminen	N	N|Sg|Par	11	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+10	voidaan	voidaan	voida	V	V|Pass|Ind|Pres	11	aux	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+11	seurata	seurata	seurata	V	V|Act|InfA|Lat	2	advl	[POS=VERB][VOICE=ACT][INF=A][CASE=LAT]	_
+12	.	.	.	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+
+#None
+1	EKP:n	EKP:n	EKP	N	N|Abbr|Prop|Sg|Gen	4	subj	[POS=NOUN][SUBCAT=ABBREVIATION][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	ei	ei	ei	V	V|Neg|Act|Sg3	3	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+3	odoteta	odoteta	odottaa	V	V|Pass|Ind|Pres|ConNeg	14	obj	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT][NEG=CON]	_
+4	nostavan	nostavan	nostaa	V	V|Act|PcpVa|Sg|Gen	3	obj	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=GEN]	_
+5	ohjauskorkoa	ohjauskorkoa	ohjauskorko	N	N|Sg|Par	4	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+6	ennen	ennen	ennen	Adp	Adp	10	phrm	[POS=ADPOSITION]	_
+7	vuoden	vuoden	vuosi	N	N|Sg|Gen	10	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	2012	2012	2012	Num	Num|Card	7	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+9	ensimmäistä	ensimmäistä	ensimmäinen	Num	Num|Ord|Sg|Par	10	attr	[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=PAR]	_
+10	neljännestä	neljännestä	neljännes	N	N|Sg|Par	4	advl	[POS=NOUN][NUM=SG][CASE=PAR]	_
+11	,	,	,	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+12	Citin	Citin	Citi	N	N|Prop|Sg|Gen	13	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+13	strategit	strategit	strategi	N	N|Pl|Nom	14	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+14	ennustavat	ennustavat	ennustaa	V	V|Act|Ind|Pres|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	EKP:n	EKP:n	EKP	N	N|Abbr|Prop|Sg|Gen	4	attr	[POS=NOUN][SUBCAT=ABBREVIATION][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	torstaina	torstaina	torstai	N	N|Sg|Ess	3	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+3	pidettävältä	pidettävältä	pitää	V	V|Pass|PcpVa|Sg|Abl	4	attr	[POS=VERB][VOICE=PSS][PCP=VA][NUM=SG][CASE=ABL]	_
+4	kokoukselta	kokoukselta	kokous	N	N|Sg|Abl	6	advl	[POS=NOUN][NUM=SG][CASE=ABL]	_
+5	ei	ei	ei	V	V|Neg|Act|Sg3	6	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+6	odotetakaan	odotetakaan	odottaa	V	V|Pass|Ind|Pres|ConNeg|Kaan	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT][NEG=CON][CLIT=KAAN]	_
+7	koronnostoja	koronnostoja	koronnosto	N	N|Pl|Par	6	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+8	.	.	.	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Bloombergin	Bloombergin	Bloomberg	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	ennusteen	ennusteen	ennuste	N	N|Sg|Gen	5	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+3	mukaan	mukaan	mukaan	Adp	Adp	2	phrm	[POS=ADPOSITION]	_
+4	ohjauskorko	ohjauskorko	ohjauskorko	N	N|Sg|Nom	5	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	pysyy	pysyy	pysyä	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+6	varmasti	varmasti	varmasti	Adv	Adv	5	advl	[POS=ADVERB]	_
+7	1	1	1	Num	Num|Card	8	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+8	prosentissa	prosentissa	prosentti	N	N|Sg|Ine	5	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Ohjauskorko	Ohjauskorko	ohjauskorko	N	N|Sg|Nom	2	obj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	painettiin	painettiin	painaa	V	V|Pass|Ind|Past	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+3	pohjalukemiin	pohjalukemiin	pohjalukema	N	N|Pl|Ill	2	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+4	jo	jo	jo	Pcle	Pcle	5	attr	[POS=PARTICLE]	_
+5	toukokuussa	toukokuussa	toukokuu	N	N|Sg|Ine	2	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+6	2009	2009	2009	Num	Num|Card	5	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Citin	Citin	Citi	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	strategit	strategit	strategi	N	N|Pl|Nom	3	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+3	arvioivat	arvioivat	arvioida	V	V|Act|Ind|Pres|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+4	,	,	,	Pun	Pun	3	dep	[POS=PUNCTUATION]	_
+5	että	että	että	Pcle	Pcle|CS	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+6	keskuspankit	keskuspankit	keskuspankki	N	N|Pl|Nom	9	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+7	ympäri	ympäri	ympäri	Adp	Adp	8	phrm	[POS=ADPOSITION]	_
+8	maailmaa	maailmaa	maailma	N	N|Sg|Par	6	mod	[POS=NOUN][NUM=SG][CASE=PAR]	_
+9	pitävät	pitävät	pitää	V	V|Act|Ind|Pres|Pl3	3	obj	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+10	korot	korot	korko	N	N|Pl|Nom	9	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+11	alhaalla	alhaalla	alhaalla	Adv	Adv	9	advl	[POS=ADVERB]	_
+12	.	.	.	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Yhtiön	Yhtiön	Yhtiö	N	N|Sg|Gen	2	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	arvion	arvion	arvio	N	N|Sg|Gen	6	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+3	mukaan	mukaan	mukaan	Adp	Adp	2	phrm	[POS=ADPOSITION]	_
+4	USA:n	USA:n	USA	N	N|Abbr|Prop|Sg|Gen	5	attr	[POS=NOUN][SUBCAT=ABBREVIATION][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	keskuspankki	keskuspankki	keskuspankki	N	N|Sg|Nom	6	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+6	jatkaa	jatkaa	jatkaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+7	nollakoron	nollakoron	nollakorko	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	linjaa	linjaa	linja	N	N|Sg|Par	6	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+9	vuoden	vuoden	vuosi	N	N|Sg|Gen	6	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+10	2012	2012	2012	Num	Num|Card	9	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+11	puolelle	puolelle	puolelle	Adp	Adp	9	phrm	[POS=ADPOSITION]	_
+12	ja	ja	ja	Pcle	Pcle|CC	15	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+13	Japanin	Japanin	Japani	N	N|Prop|Sg|Gen	14	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+14	keskuspankki	keskuspankki	keskuspankki	N	N|Sg|Nom	15	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+15	pitää	pitää	pitää	V	V|Act|Ind|Pres|Sg3	6	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+16	koron	koron	korko	N	N|Sg|Gen	15	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+17	0,1	0,1	0,1	Num	Num|Card	18	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+18	prosentissa	prosentissa	prosentti	N	N|Sg|Ine	15	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+19	aina	aina	aina	Pcle	Pcle	20	attr	[POS=PARTICLE]	_
+20	vuoden	vuoden	vuosi	N	N|Sg|Gen	15	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+21	2012	2012	2012	Num	Num|Card	20	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+22	puoliväliin	puoliväliin	puoliväliin	Adp	Adp	20	phrm	[POS=ADPOSITION]	_
+23	.	.	.	Pun	Pun	22	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Epävarmuutta	Epävarmuutta	epävarmuus	N	N|Sg|Par	3	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+2	markkinakorkoihin	markkinakorkoihin	markkinakorko	N	N|Pl|Ill	3	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+3	tuo	tuo	tuoda	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	Euroopan	Euroopan	Eurooppa	N	N|Prop|Sg|Gen	5	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	kriisimaiden	kriisimaiden	kriisimaa	N	N|Pl|Gen	6	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+6	valtionlainojen	valtionlainojen	valtionlaina	N	N|Pl|Gen	7	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+7	korkojen	korkojen	korko	N	N|Pl|Gen	8	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+8	nousu	nousu	nousu	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Maanantaina	Maanantaina	maanantai	N	N|Sg|Ess	7	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+2	Portugalin	Portugalin	Portugali	N	N|Prop|Sg|Gen	5	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+3	viiden	viiden	viisi	Num	Num|Card|Sg|Gen	4	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=GEN]	_
+4	vuoden	vuoden	vuosi	N	N|Sg|Gen	5	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+5	lainan	lainan	laina	N	N|Sg|Gen	6	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	korko	korko	korko	N	N|Sg|Nom	7	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+8	5,882	5,882	5,882	Num	Num|Card	9	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+9	prosenttia	prosenttia	prosentti	N	N|Sg|Par	7	scomp	[POS=NOUN][NUM=SG][CASE=PAR]	_
+10	ja	ja	ja	Pcle	Pcle|CC	12	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+11	kymmenen	kymmenen	kymmenen	Num	Num|Card|Sg|Gen	12	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=GEN]	_
+12	vuoden	vuoden	vuosi	N	N|Sg|Gen	4	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+13	6,905	6,905	6,905	Num	Num|Card	14	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+14	prosenttia	prosenttia	prosentti	N	N|Sg|Par	9	conjunct	[POS=NOUN][NUM=SG][CASE=PAR]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Valtionlainojen	Valtionlainojen	valtionlaina	N	N|Pl|Gen	2	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+2	koronnousu	koronnousu	koronnousu	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	kertoo	kertoo	kertoa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	siitä	siitä	se	Pron	Pron|Dem|Sg|Ela	8	phrm	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=ELA]	_
+5	,	,	,	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+6	että	että	että	Pcle	Pcle|CS	8	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+7	markkinoilla	markkinoilla	markkina	N	N|Pl|Ade	8	advl	[POS=NOUN][NUM=PL][CASE=ADE]	_
+8	epäillään	epäillään	epäillä	V	V|Pass|Ind|Pres	3	advl	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+9	edelleen	edelleen	edelleen	Adv	Adv	8	advl	[POS=ADVERB]	_
+10	Portugalin	Portugalin	Portugali	N	N|Prop|Sg|Gen	11	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+11	kykyä	kykyä	kyky	N	N|Sg|Par	8	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+12	tasapainottaa	tasapainottaa	tasapainottaa	V	V|Act|InfA|Lat	11	mod	[POS=VERB][VOICE=ACT][INF=A][CASE=LAT]	_
+13	taloutensa	taloutensa	talous	N	N|Sg|Nom|Px3	12	obj	[POS=NOUN][NUM=SG][CASE=NOM][POSS=3]	_
+14	.	.	.	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Myös	Myös	myös	Pcle	Pcle	2	attr	[POS=PARTICLE]	_
+2	Espanjan	Espanjan	Espanja	N	N|Prop|Sg|Gen	3	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+3	velkakirjojen	velkakirjojen	velkakirja	N	N|Pl|Gen	4	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+4	korot	korot	korko	N	N|Pl|Nom	5	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+5	ovat	ovat	olla	V	V|Act|Ind|Pres|Pl3	6	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+6	kohonneet	kohonneet	kohota	V	V|Act|PcpNut|Pl|Nom	0	main	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=PL][CASE=NOM]	_
+7	edelleen	edelleen	edelleen	Adv	Adv	6	advl	[POS=ADVERB]	_
+8	.	.	.	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+
+#None
+1	EU-komissio	EU-komissio	EU-komissio	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	haastaa	haastaa	haastaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	jäsenmaat	jäsenmaat	jäsenmaa	N	N|Pl|Nom	2	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+4	kirjastoineen	kirjastoineen	kirjasto	N	N|Com|Px3	3	mod	[POS=NOUN][CASE=COM][POSS=3]	_
+5	digitointitalkoisiin	digitointitalkoisiin	digitointitalkoot	N	N|Pl|Ill	2	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+6	,	,	,	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	jotka	jotka	joka	Pron	Pron|Rel|Pl|Nom	8	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=NOM]	_
+8	vetävät	vetävät	vetää	V	V|Act|Ind|Pres|Pl3	5	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+9	laajuudessaan	laajuudessaan	laajuus	N	N|Sg|Ine|Px3	8	advl	[POS=NOUN][NUM=SG][CASE=INE][POSS=3]	_
+10	vertoja	vertoja	verta	N	N|Pl|Par	8	phrv	[POS=NOUN][NUM=PL][CASE=PAR]	_
+11	Google	Google	Google	N	N|Prop|Sg|Nom	12	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+12	Booksille	Booksille	Books	Unknown	Unknown|Forgn	8	advl	[POS=UNKNOWN][SUBCAT=FOREIGN]	_
+13	.	.	.	Pun	Pun	12	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Tänään	Tänään	tänään	Adv	Adv	2	advl	[POS=ADVERB]	_
+2	julkistetussa	julkistetussa	julkistaa	V	V|Pass|PcpNut|Sg|Ine	4	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=INE]	_
+3	Europeana-verkkokirjaston	Europeana-verkkokirjaston	Europeana-verkkokirjasto	N	N|Sg|Gen	4	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+4	kokoelmassa	kokoelmassa	kokoelma	N	N|Sg|Ine	5	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+5	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+6	jo	jo	jo	Pcle	Pcle	7	attr	[POS=PARTICLE]	_
+7	15	15	15	Num	Num|Card	8	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+8	miljoonaa	miljoonaa	miljoona	Num	Num|Card|Sg|Par	9	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=PAR]	_
+9	teosta	teosta	teos	N	N|Sg|Par	5	subj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+10	.	.	.	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Googlen	Googlen	Google	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	verkkokirja-arkisto	verkkokirja-arkisto	verkkokirja-arkisto	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	arvioiden	arvioiden	arvio	N	N|Pl|Gen	3	advl	[POS=NOUN][NUM=PL][CASE=GEN]	_
+5	mukaan	mukaan	mukaan	Adp	Adp	4	phrm	[POS=ADPOSITION]	_
+6	samansuuruinen	samansuuruinen	samansuuruinen	A	A|Sg|Nom	3	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Mukana	Mukana	mukana	Adv	Adv	2	advl	[POS=ADVERB]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	kirjoja	kirjoja	kirja	N	N|Pl|Par	2	subj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+4	,	,	,	Pun	Pun	3	dep	[POS=PUNCTUATION]	_
+5	karttoja	karttoja	kartta	N	N|Pl|Par	3	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+6	,	,	,	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	sanomalehtiä	sanomalehtiä	sanomalehti	N	N|Pl|Par	5	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	maalauksia	maalauksia	maalaus	N	N|Pl|Par	7	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+10	,	,	,	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	valokuvia	valokuvia	valokuva	N	N|Pl|Par	9	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+12	ja	ja	ja	Pcle	Pcle|CC	14	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+13	muita	muita	muu	Pron	Pron|Qnt|Pl|Par	14	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=PAR]	_
+14	teoksia	teoksia	teos	N	N|Pl|Par	11	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kirjoja	Kirjoja	kirja	N	N|Pl|Par	3	subj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+2	Europeana-kokoelmaan	Europeana-kokoelmaan	Europeana-kokoelma	N	N|Sg|Ill	3	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+3	kuuluu	kuuluu	kuulua	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	1,2	1,2	1,2	Num	Num|Card	5	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+5	miljoonaa	miljoonaa	miljoona	Num	Num|Card|Sg|Par	6	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=PAR]	_
+6	kappaletta	kappaletta	kappale	N	N|Sg|Par	3	advl	[POS=NOUN][NUM=SG][CASE=PAR]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Vanhimmat	Vanhimmat	vanha	A	A|Sup|Pl|Nom	2	attr	[POS=ADJECTIVE][CMP=SUP][NUM=PL][CASE=NOM]	_
+2	tekstimuotoiset	tekstimuotoiset	tekstimuotoinen	A	A|Pl|Nom	3	attr	[POS=ADJECTIVE][NUM=PL][CASE=NOM]	_
+3	teokset	teokset	teos	N	N|Pl|Nom	4	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+4	ovat	ovat	olla	V	V|Act|Ind|Pres|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+5	1500-luvun	1500-luvun	1500-luku	N	N|Sg|Gen	6	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	käsikirjoituksia	käsikirjoituksia	käsikirjoitus	N	N|Pl|Par	4	scomp	[POS=NOUN][NUM=PL][CASE=PAR]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suurin	Suurin	suuri	A	A|Sup|Sg|Nom	2	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=NOM]	_
+2	osa	osa	osa	N	N|Sg|Nom	6	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	eli	eli	eli	Pcle	Pcle|CC	5	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+4	64	64	64	Num	Num|Card	5	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+5	prosenttia	prosenttia	prosentti	N	N|Sg|Par	2	conjunct	[POS=NOUN][NUM=SG][CASE=PAR]	_
+6	kokoelmasta	kokoelmasta	kokoelma	N	N|Sg|Ela	7	subj	[POS=NOUN][NUM=SG][CASE=ELA]	_
+7	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+8	karttoja	karttoja	kartta	N	N|Pl|Par	7	scomp	[POS=NOUN][NUM=PL][CASE=PAR]	_
+9	ja	ja	ja	Pcle	Pcle|CC	10	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+10	kuvia	kuvia	kuva	N	N|Pl|Par	8	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+11	.	.	.	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Projektin	Projektin	projekti	N	N|Sg|Gen	2	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	pääkohde	pääkohde	pääkohde	N	N|Sg|Nom	3	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	ovat	ovat	olla	V	V|Act|Ind|Pres|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+4	niin	niin	niin	Adv	Adv|Dem	5	idiom	[POS=ADVERB][SUBCAT=DEMONSTRATIVE]	_
+5	kutsutut	kutsutut	kutsua	V	V|Pass|PcpNut|Pl|Nom	6	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=PL][CASE=NOM]	_
+6	orvot	orvot	orpo	A	A|Pl|Nom	7	attr	[POS=ADJECTIVE][NUM=PL][CASE=NOM]	_
+7	teokset	teokset	teos	N	N|Pl|Nom	3	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	joiden	joiden	joka	Pron	Pron|Rel|Pl|Gen	10	attr	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=GEN]	_
+10	tekijää	tekijää	tekijä	N	N|Sg|Par	12	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+11	ei	ei	ei	V	V|Neg|Act|Sg3	12	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+12	tunneta	tunneta	tuntea	V	V|Pass|Ind|Pres|ConNeg	7	mod	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT][NEG=CON]	_
+13	ja	ja	ja	Pcle	Pcle|CC	15	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+14	vanhat	vanhat	vanha	A	A|Pl|Nom	15	attr	[POS=ADJECTIVE][NUM=PL][CASE=NOM]	_
+15	kirjat	kirjat	kirja	N	N|Pl|Nom	7	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+16	,	,	,	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+17	joiden	joiden	joka	Pron	Pron|Rel|Pl|Gen	18	attr	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=GEN]	_
+18	painos	painos	painos	N	N|Sg|Nom	19	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+19	on	on	olla	V	V|Act|Ind|Pres|Sg3	15	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+20	loppuunmyyty	loppuunmyyty	loppuunmyyty	A	A|Sg|Nom	19	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+21	.	.	.	Pun	Pun	20	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kokoelmiin	Kokoelmiin	kokoelma	N	N|Pl|Ill	2	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+2	halutaan	halutaan	haluta	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+3	myös	myös	myös	Pcle	Pcle	4	attr	[POS=PARTICLE]	_
+4	uudempia	uudempia	uusi	A	A|Cmp|Pl|Par	5	attr	[POS=ADJECTIVE][CMP=CMP][NUM=PL][CASE=PAR]	_
+5	teoksia	teoksia	teos	N	N|Pl|Par	2	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+6	,	,	,	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	joita	joita	joka	Pron	Pron|Rel|Pl|Par	10	obj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=PAR]	_
+8	komissio	komissio	komissio	N	N|Sg|Nom	9	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+9	kannustaa	kannustaa	kannustaa	V	V|Act|Ind|Pres|Sg3	5	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+10	digitoimaan	digitoimaan	digitoida	V	V|Act|InfMa|Ill	9	advl	[POS=VERB][VOICE=ACT][INF=MA][CASE=ILL]	_
+11	yhteistyössä	yhteistyössä	yhteistyö	N	N|Sg|Ine	10	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+12	oikeuksienomistajien	oikeuksienomistajien	oikeuksienomistaja	N	N|Pl|Gen	11	mod	[POS=NOUN][NUM=PL][CASE=GEN]	_
+13	kanssa	kanssa	kanssa	Adp	Adp	12	phrm	[POS=ADPOSITION]	_
+14	ja	ja	ja	Pcle	Pcle|CC	16	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+15	korvaukset	korvaukset	korvaus	N	N|Pl|Nom	16	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+16	maksaen	maksaen	maksaa	V	V|Act|InfE|Ins	11	conjunct	[POS=VERB][VOICE=ACT][INF=E][CASE=INS]	_
+17	.	.	.	Pun	Pun	16	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Univaikeuksista	Univaikeuksista	univaikeus	N	N|Pl|Ela	2	advl	[POS=NOUN][NUM=PL][CASE=ELA]	_
+2	kärsivät	kärsivät	kärsiä	V	V|Act|PcpVa|Pl|Nom	3	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=NOM]	_
+3	miehet	miehet	mies	N	N|Pl|Nom	4	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+4	kuolevat	kuolevat	kuolla	V	V|Act|Ind|Pres|Pl3	11	obj	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+5	nuorena	nuorena	nuori	A	A|Sg|Ess	4	advl	[POS=ADJECTIVE][NUM=SG][CASE=ESS]	_
+6	muita	muita	muu	Pron	Pron|Qnt|Pl|Par	7	comp	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=PAR]	_
+7	todennäköisemmin	todennäköisemmin	todennäköisemmin	Adv	Adv|Cmp	4	advl	[POS=ADVERB][CMP=CMP]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	tuore	tuore	tuore	A	A|Sg|Nom	10	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+10	tutkimus	tutkimus	tutkimus	N	N|Sg|Nom	11	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+11	osoittaa	osoittaa	osoittaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+12	.	.	.	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Erityisesti	Erityisesti	erityisesti	Adv	Adv	3	advl	[POS=ADVERB]	_
+2	tämä	tämä	tämä	Pron	Pron|Dem|Sg|Nom	3	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+3	koskee	koskee	koskea	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	alle	alle	alle	Adv	Adv	5	attr	[POS=ADVERB]	_
+5	45-vuotiaita	45-vuotiaita	45-vuotias	A	A|Pl|Par	6	attr	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+6	miehiä	miehiä	mies	N	N|Pl|Par	3	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Tulokset	Tulokset	tulos	N	N|Pl|Nom	2	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+2	julkaistiin	julkaistiin	julkaista	V	V|Pass|Ind|Past	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+3	American	American	American	N	N|Prop|Sg|Nom	4	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+4	Journal	Journal	Journal	Unknown	Unknown|Forgn	5	attr	[POS=UNKNOWN][SUBCAT=FOREIGN]	_
+5	of	of	of	Unknown	Unknown|Forgn	6	attr	[POS=UNKNOWN][SUBCAT=FOREIGN]	_
+6	Epidemiology	Epidemiology	Epidemiology	Unknown	Unknown|Forgn	7	attr	[POS=UNKNOWN][SUBCAT=FOREIGN]	_
+7	-lehdessä	-lehdessä	-lehti	N	N|Sg|Ine	2	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	ja	ja	ja	Pcle	Pcle|CC	19	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+10	niiden	niiden	ne	Pron	Pron|Dem|Pl|Gen	19	advl	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=PL][CASE=GEN]	_
+11	perusteella	perusteella	perusteella	Adp	Adp	10	phrm	[POS=ADPOSITION]	_
+12	miehen	miehen	mies	N	N|Sg|Gen	13	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+13	riski	riski	riski	N	N|Sg|Nom	19	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+14	kuolla	kuolla	kuolla	V	V|Act|InfA|Lat	13	mod	[POS=VERB][VOICE=ACT][INF=A][CASE=LAT]	_
+15	seuraavan	seuraavan	seuraava	A	A|Sg|Gen	16	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+16	19	19	19	Num	Num|Card	17	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+17	vuoden	vuoden	vuosi	N	N|Sg|Gen	14	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+18	aikana	aikana	aikana	Adp	Adp	17	phrm	[POS=ADPOSITION]	_
+19	on	on	olla	V	V|Act|Ind|Pres|Sg3	2	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+20	kaksinkertainen	kaksinkertainen	kaksinkertainen	A	A|Sg|Nom	19	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+21	,	,	,	Pun	Pun	20	dep	[POS=PUNCTUATION]	_
+22	jos	jos	jos	Pcle	Pcle|CS	24	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+23	hänellä	hänellä	hän	Pron	Pron|Pers|Sg3|Ade	24	subj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=ADE]	_
+24	on	on	olla	V	V|Act|Ind|Pres|Sg3	19	advl	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+25	univaikeuksia	univaikeuksia	univaikeus	N	N|Pl|Par	24	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+26	alle	alle	alle	Adv	Adv	27	attr	[POS=ADVERB]	_
+27	45-vuotiaana	45-vuotiaana	45-vuotias	A	A|Sg|Ess	24	advl	[POS=ADJECTIVE][NUM=SG][CASE=ESS]	_
+28	.	.	.	Pun	Pun	27	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Uniongelmiin	Uniongelmiin	uniongelma	N	N|Pl|Ill	2	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+2	liittynyt	liittynyt	liittyä	V	V|Act|PcpNut|Sg|Nom	3	attr	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+3	kuolleisuus	kuolleisuus	kuolleisuus	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	ei	ei	ei	V	V|Neg|Act|Sg3	5	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+5	selittynyt	selittynyt	selittyä	V	V|Act|Ind|Past|Sg|ConNeg	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][NUM=SG][NEG=CON]	_
+6	sydän-	sydän-	sydän-	Trunc	Trunc|Prefix	8	conjunct	[POS=TRUNCATED][POSITION=PREFIX]	_
+7	ja	ja	ja	Pcle	Pcle|CC	8	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+8	verisuonitaudeilla	verisuonitaudeilla	verisuonitauti	N	N|Pl|Ade	5	advl	[POS=NOUN][NUM=PL][CASE=ADE]	_
+9	,	,	,	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+10	vaikka	vaikka	vaikka	Pcle	Pcle|CS	13	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+11	huonosti	huonosti	huonosti	Adv	Adv	12	advl	[POS=ADVERB]	_
+12	nukkuvilla	nukkuvilla	nukkua	V	V|Act|PcpVa|Pl|Ade	13	subj	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=ADE]	_
+13	oli	oli	olla	V	V|Act|Ind|Past|Sg3	5	advl	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+14	muita	muita	muu	Pron	Pron|Qnt|Pl|Par	15	comp	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=PAR]	_
+15	enemmän	enemmän	enemmän	Adv	Adv|Cmp	13	advl	[POS=ADVERB][CMP=CMP]	_
+16	diabetesta	diabetesta	diabetes	N	N|Sg|Par	13	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+17	ja	ja	ja	Pcle	Pcle|CC	18	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+18	verenpainetautia	verenpainetautia	verenpainetauti	N	N|Sg|Par	16	conjunct	[POS=NOUN][NUM=SG][CASE=PAR]	_
+19	.	.	.	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Todennäköisesti	Todennäköisesti	todennäköisesti	Adv	Adv	6	advl	[POS=ADVERB]	_
+2	sydän-	sydän-	sydän-	Trunc	Trunc|Prefix	4	conjunct	[POS=TRUNCATED][POSITION=PREFIX]	_
+3	ja	ja	ja	Pcle	Pcle|CC	4	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+4	verisuonitautien	verisuonitautien	verisuonitauti	N	N|Pl|Gen	5	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+5	vaikutukset	vaikutukset	vaikutus	N	N|Pl|Nom	6	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+6	näkyvätkin	näkyvätkin	näkyä	V	V|Act|Ind|Pres|Pl3|Kin	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3][CLIT=KIN]	_
+7	iän	iän	ikä	N	N|Sg|Gen	6	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	myötä	myötä	myötä	Adp	Adp	7	phrm	[POS=ADPOSITION]	_
+9	myöhemmin	myöhemmin	myöhemmin	Adv	Adv|Cmp	6	advl	[POS=ADVERB][CMP=CMP]	_
+10	.	.	.	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Sydäntautien	Sydäntautien	sydäntauti	N	N|Pl|Gen	4	advl	[POS=NOUN][NUM=PL][CASE=GEN]	_
+2	sijaan	sijaan	sijaan	Adp	Adp	1	phrm	[POS=ADPOSITION]	_
+3	merkittäviksi	merkittäviksi	merkittävä	A	A|Pl|Tra	4	advl	[POS=ADJECTIVE][NUM=PL][CASE=TRA]	_
+4	nousivat	nousivat	nousta	V	V|Act|Ind|Past|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+5	ulkoisista	ulkoisista	ulkoinen	A	A|Pl|Ela	6	attr	[POS=ADJECTIVE][NUM=PL][CASE=ELA]	_
+6	syistä	syistä	syy	N	N|Pl|Ela	7	advl	[POS=NOUN][NUM=PL][CASE=ELA]	_
+7	johtuvat	johtuvat	johtua	V	V|Act|PcpVa|Pl|Nom	8	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=NOM]	_
+8	kuolemat	kuolemat	kuolema	N	N|Pl|Nom	4	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Erityisen	Erityisen	erityisen	A	A|Sg|Gen	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+2	huolestuttava	huolestuttava	huolestuttava	A	A|Sg|Nom	3	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+3	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	havainto	havainto	havainto	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	,	,	,	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+6	jonka	jonka	joka	Pron	Pron|Rel|Sg|Gen	12	advl	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=GEN]	_
+7	mukaan	mukaan	mukaan	Adp	Adp	6	phrm	[POS=ADPOSITION]	_
+8	vähintään	vähintään	vähintään	Pcle	Pcle	9	attr	[POS=PARTICLE]	_
+9	kolmesta	kolmesta	kolme	Num	Num|Card|Sg|Ela	10	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=ELA]	_
+10	uniongelmasta	uniongelmasta	uniongelma	N	N|Sg|Ela	11	advl	[POS=NOUN][NUM=SG][CASE=ELA]	_
+11	kärsivät	kärsivät	kärsiä	V	V|Act|PcpVa|Pl|Nom	12	subj	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=NOM]	_
+12	tekivät	tekivät	tehdä	V	V|Act|Ind|Past|Pl3	4	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+13	itsemurhan	itsemurhan	itsemurha	N	N|Sg|Gen	12	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+14	viisi	viisi	viisi	Num	Num|Card|Sg|Nom	15	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=NOM]	_
+15	kertaa	kertaa	kerta	N	N|Sg|Par	16	attr	[POS=NOUN][NUM=SG][CASE=PAR]	_
+16	todennäköisemmin	todennäköisemmin	todennäköisemmin	Adv	Adv|Cmp	12	advl	[POS=ADVERB][CMP=CMP]	_
+17	kuin	kuin	kuin	Pcle	Pcle|CS	18	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+18	miehet	miehet	mies	N	N|Pl|Nom	16	comp	[POS=NOUN][NUM=PL][CASE=NOM]	_
+19	,	,	,	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+20	jotka	jotka	joka	Pron	Pron|Rel|Pl|Nom	21	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=NOM]	_
+21	nukkuivat	nukkuivat	nukkua	V	V|Act|Ind|Past|Pl3	18	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+22	hyvin	hyvin	hyvin	Adv	Adv	21	advl	[POS=ADVERB]	_
+23	.	.	.	Pun	Pun	22	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Itsemurhariski	Itsemurhariski	itsemurhariski	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	johtuu	johtuu	johtua	V	V|Act|Ind|Pres|Sg3	12	obj	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	mahdollisesti	mahdollisesti	mahdollisesti	Adv	Adv	2	advl	[POS=ADVERB]	_
+4	masennuksesta	masennuksesta	masennus	N	N|Sg|Ela	2	advl	[POS=NOUN][NUM=SG][CASE=ELA]	_
+5	,	,	,	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+6	joka	joka	joka	Pron	Pron|Rel|Sg|Nom	7	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=NOM]	_
+7	on	on	olla	V	V|Act|Ind|Pres|Sg3	4	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+8	yleistä	yleistä	yleinen	A	A|Sg|Par	7	scomp	[POS=ADJECTIVE][NUM=SG][CASE=PAR]	_
+9	uniongelmaisilla	uniongelmaisilla	uniongelmainen	A	A|Pl|Ade	7	advl	[POS=ADJECTIVE][NUM=PL][CASE=ADE]	_
+10	,	,	,	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	tutkijat	tutkijat	tutkija	N	N|Pl|Nom	12	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+12	kirjoittavat	kirjoittavat	kirjoittaa	V	V|Act|Ind|Pres|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+13	.	.	.	Pun	Pun	12	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Seitsenkertainen	Seitsenkertainen	seitsenkertainen	A	A|Sg|Nom	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+2	maailmanmestari	maailmanmestari	maailmanmestari	N	N|Sg|Nom	6	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	,	,	,	Pun	Pun	2	dep	[POS=PUNCTUATION]	_
+4	suunnistaja	suunnistaja	suunnistaja	N	N|Sg|Nom	6	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	Minna	Minna	Minna	N	N|Prop|Sg|Nom	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+6	Kauppi	Kauppi	Kauppi	N	N|Prop|Sg|Nom	8	obj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+7	on	on	olla	V	V|Act|Ind|Pres|Sg3	8	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+8	valittu	valittu	valita	V	V|Pass|PcpNut|Sg|Nom	0	main	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+9	vuoden	vuoden	vuosi	N	N|Sg|Gen	10	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+10	urheilijaksi	urheilijaksi	urheilija	N	N|Sg|Tra	8	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+11	.	.	.	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Viime	Viime	viime	A	A	2	attr	[POS=ADJECTIVE]	_
+2	vuoden	vuoden	vuosi	N	N|Sg|Gen	4	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+3	parhaaksi	parhaaksi	paras	A	A|Sup|Sg|Tra	4	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=TRA]	_
+4	urheilijaksi	urheilijaksi	urheilija	N	N|Sg|Tra	5	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+5	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+6	ehdolla	ehdolla	ehto	N	N|Sg|Ade	5	phrv	[POS=NOUN][NUM=SG][CASE=ADE]	_
+7	kirjava	kirjava	kirjava	A	A|Sg|Nom	8	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+8	joukko	joukko	joukko	N	N|Sg|Nom	11	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+9	pienten	pienten	pieni	A	A|Pl|Gen	10	attr	[POS=ADJECTIVE][NUM=PL][CASE=GEN]	_
+10	lajien	lajien	laji	N	N|Pl|Gen	11	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+11	edustajia	edustajia	edustaja	N	N|Pl|Par	5	subj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+12	,	,	,	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+13	joista	joista	joka	Pron	Pron|Rel|Pl|Ela	15	advl	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=ELA]	_
+14	kärkikolmikkoon	kärkikolmikkoon	kärkikolmikko	N	N|Sg|Ill	15	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+15	ylsivät	ylsivät	yltää	V	V|Act|Ind|Past|Pl3	11	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+16	suunnistaja	suunnistaja	suunnistaja	N	N|Sg|Nom	15	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+17	,	,	,	Pun	Pun	18	phrm	[POS=PUNCTUATION]	_
+18	taitoluistelija	taitoluistelija	taitoluistelija	N	N|Sg|Nom	16	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+19	ja	ja	ja	Pcle	Pcle|CC	20	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+20	lumilautailija	lumilautailija	lumilautailija	N	N|Sg|Nom	18	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+21	.	.	.	Pun	Pun	20	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Sähkönsinisessä	Sähkönsinisessä	sähkönsininen	A	A|Sg|Ine	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=INE]	_
+2	juhlapuvussaan	juhlapuvussaan	juhlapuku	N	N|Sg|Ine|Px3	3	advl	[POS=NOUN][NUM=SG][CASE=INE][POSS=3]	_
+3	säkenöinyt	säkenöinyt	säkenöidä	V	V|Act|PcpNut|Sg|Nom	4	attr	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+4	Kauppi	Kauppi	Kauppi	N	N|Prop|Sg|Nom	5	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+5	voitti	voitti	voittaa	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+6	äänestyksen	äänestyksen	äänestys	N	N|Sg|Gen	5	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	selvällä	selvällä	selvä	A	A|Sg|Ade	8	attr	[POS=ADJECTIVE][NUM=SG][CASE=ADE]	_
+8	erolla	erolla	ero	N	N|Sg|Ade	5	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+9	toiseksi	toiseksi	toinen	Num	Num|Ord|Sg|Tra	10	advl	[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=TRA]	_
+10	tulleeseen	tulleeseen	tulla	V	V|Act|PcpNut|Sg|Ill	12	attr	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=ILL]	_
+11	Laura	Laura	Laura	N	N|Prop|Sg|Nom	12	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+12	Lepistöön	Lepistöön	Lepistö	N	N|Prop|Sg|Ill	8	mod	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ILL]	_
+13	ja	ja	ja	Pcle	Pcle|CC	17	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+14	kolmanneksi	kolmanneksi	kolmas	Num	Num|Ord|Sg|Tra	15	advl	[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=TRA]	_
+15	sijoittuneeseen	sijoittuneeseen	sijoittua	V	V|Act|PcpNut|Sg|Ill	17	attr	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=ILL]	_
+16	Peetu	Peetu	Peetu	N	N|Prop|Sg|Nom	17	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+17	Piiroiseen	Piiroiseen	Piiroinen	N	N|Prop|Sg|Ill	12	conjunct	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ILL]	_
+18	.	.	.	Pun	Pun	17	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Koskaan	Koskaan	koskaan	Adv	Adv	2	attr	[POS=ADVERB]	_
+2	aiemmin	aiemmin	aiemmin	Adv	Adv|Cmp	6	advl	[POS=ADVERB][CMP=CMP]	_
+3	ei	ei	ei	V	V|Neg|Act|Sg3	5	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+4	suunnistajaa	suunnistajaa	suunnistaja	N	N|Sg|Par	6	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+5	ole	ole	olla	V	V|Act|Ind|Pres|ConNeg	6	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][NEG=CON]	_
+6	valittu	valittu	valita	V	V|Pass|PcpNut|Sg|Nom	0	main	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+7	vuoden	vuoden	vuosi	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	urheilijaksi	urheilijaksi	urheilija	N	N|Sg|Tra	6	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kauppi	Kauppi	Kauppi	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	kokeekin	kokeekin	kokea	V	V|Act|Ind|Pres|Sg3|Kin	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3][CLIT=KIN]	_
+3	,	,	,	Pun	Pun	2	dep	[POS=PUNCTUATION]	_
+4	että	että	että	Pcle	Pcle|CS	7	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+5	hänen	hänen	hän	Pron	Pron|Pers|Sg3|Gen	6	attr	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=GEN]	_
+6	valintansa	valintansa	valinta	N	N|Sg|Nom|Px3	7	subj	[POS=NOUN][NUM=SG][CASE=NOM][POSS=3]	_
+7	osoittaa	osoittaa	osoittaa	V	V|Act|Ind|Pres|Sg3	2	obj	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+8	suurta	suurta	suuri	A	A|Sg|Par	9	attr	[POS=ADJECTIVE][NUM=SG][CASE=PAR]	_
+9	arvostusta	arvostusta	arvostus	N	N|Sg|Par	7	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+10	myös	myös	myös	Pcle	Pcle	11	attr	[POS=PARTICLE]	_
+11	lajia	lajia	laji	N	N|Sg|Par	9	mod	[POS=NOUN][NUM=SG][CASE=PAR]	_
+12	kohtaan	kohtaan	kohtaan	Adp	Adp	11	phrm	[POS=ADPOSITION]	_
+13	.	.	.	Pun	Pun	12	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kymmenennen	Kymmenennen	kymmenes	Num	Num|Ord|Sg|Gen	3	attr	[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=GEN]	_
+2	Sibelius	Sibelius	Sibelius	N	N|Prop|Sg|Nom	3	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+3	-viulukilpailun	-viulukilpailun	-viulukilpailu	N	N|Sg|Gen	5	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+4	venäläinen	venäläinen	venäläinen	A	A|Sg|Nom	5	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+5	voittaja	voittaja	voittaja	N	N|Sg|Nom	7	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+6	Nikita	Nikita	Nikita	N	N|Prop|Sg|Nom	7	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+7	Boriso-Glebsky	Boriso-Glebsky	Boriso-Glebsky	N	N|Prop|Sg|Nom	8	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+8	on	on	olla	V	V|Act|Ind|Pres|Sg3	9	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+9	vahvistanut	vahvistanut	vahvistaa	V	V|Act|PcpNut|Sg|Nom	0	main	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+10	tulonsa	tulonsa	tulo	N	N|Sg|Gen|Px3	9	obj	[POS=NOUN][NUM=SG][CASE=GEN][POSS=3]	_
+11	Jyväskylän	Jyväskylän	Jyväskylä	N	N|Prop|Sg|Gen	12	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+12	2011	2011	2011	Num	Num|Card	13	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+13	avajaiskonserttiin	avajaiskonserttiin	avajaiskonsertti	N	N|Sg|Ill	10	mod	[POS=NOUN][NUM=SG][CASE=ILL]	_
+14	.	.	.	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+
+#None
+1	25-vuotias	25-vuotias	25-vuotias	A	A|Sg|Nom	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+2	Boriso-Glebsky	Boriso-Glebsky	Boriso-Glebsky	N	N|Prop|Sg|Nom	3	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+3	on	on	olla	V	V|Act|Ind|Pres|Sg3	4	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	soittanut	soittanut	soittaa	V	V|Act|PcpNut|Sg|Nom	0	main	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+5	6-vuotiaasta	6-vuotiaasta	6-vuotias	A	A|Sg|Ela	4	advl	[POS=ADJECTIVE][NUM=SG][CASE=ELA]	_
+6	ja	ja	ja	Pcle	Pcle|CC	7	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+7	osallistunut	osallistunut	osallistua	V	V|Act|PcpNut|Sg|Nom	4	conjunct	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+8	useisiin	useisiin	usea	Pron	Pron|Qnt|Pl|Ill	10	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=ILL]	_
+9	kansainvälisiin	kansainvälisiin	kansainvälinen	A	A|Pl|Ill	10	attr	[POS=ADJECTIVE][NUM=PL][CASE=ILL]	_
+10	viulukilpailuihin	viulukilpailuihin	viulukilpailu	N	N|Pl|Ill	7	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+11	,	,	,	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+12	joista	joista	joka	Pron	Pron|Rel|Pl|Ela	16	advl	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=ELA]	_
+13	kuudessa	kuudessa	kuusi	Num	Num|Card|Sg|Ine	16	advl	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=INE]	_
+14	hän	hän	hän	Pron	Pron|Pers|Sg3|Nom	15	subj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=NOM]	_
+15	on	on	olla	V	V|Act|Ind|Pres|Sg3	16	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+16	saanut	saanut	saada	V	V|Act|PcpNut|Sg|Nom	10	mod	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+17	ykköspalkinnon	ykköspalkinnon	ykköspalkinto	N	N|Sg|Gen	16	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+18	.	.	.	Pun	Pun	17	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kesässä	Kesässä	kesä	N	N|Sg|Ine	3	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+2	Boriso-Glebsky	Boriso-Glebsky	Boriso-Glebsky	N	N|Prop|Sg|Nom	3	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+3	soittaa	soittaa	soittaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	Brahmsin	Brahmsin	Brahms	N	N|Prop|Sg|Gen	5	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	Viulukonserton	Viulukonserton	viulukonsertto	N	N|Sg|Gen	3	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	.	.	.	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kansainvälisesti	Kansainvälisesti	kansainvälisesti	Adv	Adv	2	advl	[POS=ADVERB]	_
+2	arvostettu	arvostettu	arvostaa	V	V|Pass|PcpNut|Sg|Nom	3	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+3	terrorismintutkija	terrorismintutkija	terrorismintutkija	N	N|Sg|Nom	5	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	Magnus	Magnus	Magnus	N	N|Prop|Sg|Nom	5	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+5	Ranstorp	Ranstorp	Ranstorp	N	N|Prop|Sg|Nom	6	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+6	arvioi	arvioi	arvioida	V	V|Act|Ind|Pres|Sg3||V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]||[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+7	,	,	,	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+8	että	että	että	Pcle	Pcle|CS	11	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+9	Suomea	Suomea	Suomi	N	N|Prop|Sg|Par	11	obj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=PAR]	_
+10	ei	ei	ei	V	V|Neg|Act|Sg3	11	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+11	uhkaa	uhkaa	uhata	V	V|Act|Ind|Pres|ConNeg	6	obj	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][NEG=CON]	_
+12	samanlainen	samanlainen	samanlainen	A	A|Qnt|Sg|Nom	13	attr	[POS=ADJECTIVE][SUBCAT=QUANTOR][NUM=SG][CASE=NOM]	_
+13	jihadistinen	jihadistinen	jihadistinen	A	A|Sg|Nom	14	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+14	terrorismi	terrorismi	terrorismi	N	N|Sg|Nom	10	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+15	kuin	kuin	kuin	Pcle	Pcle|CS	16	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+16	Ruotsia	Ruotsia	Ruotsi	N	N|Prop|Sg|Par	12	comp	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=PAR]	_
+17	ja	ja	ja	Pcle	Pcle|CC	18	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+18	Tanskaa	Tanskaa	Tanska	N	N|Prop|Sg|Par	16	conjunct	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=PAR]	_
+19	.	.	.	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+
+#None
+1	"	"	"	Pun	Pun|Quo|Ini	2	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=INITIAL]	_
+2	Suomi	Suomi	Suomi	N	N|Prop|Sg|Nom	3	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+3	on	on	olla	V	V|Act|Ind|Pres|Sg3	21	obj	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	sitä	sitä	se	Pron	Pron|Dem|Sg|Par	8	phrm	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=PAR]	_
+5	,	,	,	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+6	mitä	mitä	mikä	Pron	Pron|Rel|Sg|Par	8	scomp	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=PAR]	_
+7	Ruotsi	Ruotsi	Ruotsi	N	N|Prop|Sg|Nom	8	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+8	oli	oli	olla	V	V|Act|Ind|Past|Sg3	3	scomp	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+9	ennen	ennen	ennen	Adv	Adv	8	advl	[POS=ADVERB]	_
+10	:	:	:	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	rauhaisa	rauhaisa	rauhaisa	A	A|Sg|Nom	12	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+12	poukama	poukama	poukama	N	N|Sg|Nom	8	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+13	myrskyisässä	myrskyisässä	myrskyisä	A	A|Sg|Ine	14	attr	[POS=ADJECTIVE][NUM=SG][CASE=INE]	_
+14	maailmassa	maailmassa	maailma	N	N|Sg|Ine	12	mod	[POS=NOUN][NUM=SG][CASE=INE]	_
+15	"	"	"	Pun	Pun|Quo|Fin	14	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=FINAL]	_
+16	,	,	,	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+17	Ruotsin	Ruotsin	Ruotsi	N	N|Prop|Sg|Gen	18	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+18	maanpuolustuskorkeakoulussa	maanpuolustuskorkeakoulussa	maanpuolustuskorkeakoulu	N	N|Sg|Ine	19	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+19	työskentelevä	työskentelevä	työskennellä	V	V|Act|PcpVa|Sg|Nom	20	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=NOM]	_
+20	Ranstorp	Ranstorp	Ranstorp	N	N|Prop|Sg|Nom	21	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+21	sanoo	sanoo	sanoa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+22	.	.	.	Pun	Pun	21	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Ranstorpin	Ranstorpin	Ranstorp	N	N|Prop|Sg|Gen	4	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	mukaan	mukaan	mukaan	Adp	Adp	1	phrm	[POS=ADPOSITION]	_
+3	Suomessa	Suomessa	Suomi	N	N|Prop|Sg|Ine	4	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+4	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+5	terrorismin	terrorismin	terrorismi	N	N|Sg|Gen	4	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	kannalta	kannalta	kannalta	Adp	Adp	5	phrm	[POS=ADPOSITION]	_
+7	houkuttelevia	houkuttelevia	houkutteleva	A	A|Pl|Par	8	attr	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+8	kohteita	kohteita	kohde	N	N|Pl|Par	4	subj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+9	,	,	,	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+10	kuten	kuten	kuten	Adv	Adv	11	attr	[POS=ADVERB]	_
+11	lähetystöjä	lähetystöjä	lähetystö	N	N|Pl|Par	8	mod	[POS=NOUN][NUM=PL][CASE=PAR]	_
+12	,	,	,	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+13	mutta	mutta	mutta	Pcle	Pcle|CC	16	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+14	terrorismin	terrorismin	terrorismi	N	N|Sg|Gen	15	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+15	uhka	uhka	uhka	N	N|Sg|Nom	16	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+16	on	on	olla	V	V|Act|Ind|Pres|Sg3	4	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+17	vähäinen	vähäinen	vähäinen	A	A|Sg|Nom	16	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+18	.	.	.	Pun	Pun	17	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suojelupoliisi	Suojelupoliisi	suojelupoliisi	N	N|Sg|Nom	5	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	(	(	(	Pun	Pun	1	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+3	Supo	Supo	Supo	N	N|Prop|Sg|Nom	1	mod	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+4	)	)	)	Pun	Pun	3	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=FINAL]	_
+5	on	on	olla	V	V|Act|Ind|Pres|Sg3	6	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+6	päätynyt	päätynyt	päätyä	V	V|Act|PcpNut|Sg|Nom	0	main	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+7	samansuuntaiseen	samansuuntaiseen	samansuuntainen	A	A|Sg|Ill	8	attr	[POS=ADJECTIVE][NUM=SG][CASE=ILL]	_
+8	arvioon	arvioon	arvio	N	N|Sg|Ill	6	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+9	:	:	:	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+10	terrorismin	terrorismin	terrorismi	N	N|Sg|Gen	11	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+11	uhka	uhka	uhka	N	N|Sg|Nom	14	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+12	Suomea	Suomea	Suomi	N	N|Prop|Sg|Par	11	mod	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=PAR]	_
+13	kohtaan	kohtaan	kohtaan	Adp	Adp	12	phrm	[POS=ADPOSITION]	_
+14	on	on	olla	V	V|Act|Ind|Pres|Sg3	8	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+15	yleisesti	yleisesti	yleisesti	Adv	Adv	16	attr	[POS=ADVERB]	_
+16	ottaen	ottaen	ottaa	V	V|Act|InfE|Ins	14	advl	[POS=VERB][VOICE=ACT][INF=E][CASE=INS]	_
+17	edelleen	edelleen	edelleen	Adv	Adv	14	advl	[POS=ADVERB]	_
+18	pieni	pieni	pieni	A	A|Sg|Nom	14	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+19	.	.	.	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Ranstorpin	Ranstorpin	Ranstorp	N	N|Prop|Sg|Gen	4	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	mukaan	mukaan	mukaan	Adp	Adp	1	phrm	[POS=ADPOSITION]	_
+3	Tanska	Tanska	Tanska	N	N|Prop|Sg|Nom	4	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+4	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+5	terrorismin	terrorismin	terrorismi	N	N|Sg|Gen	6	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	ydinkohde	ydinkohde	ydinkohde	N	N|Sg|Nom	4	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	Pohjoismaissa	Pohjoismaissa	Pohjoismaa	N	N|Prop|Pl|Ine	4	advl	[POS=NOUN][PROPER=PROPER][NUM=PL][CASE=INE]	_
+8	.	.	.	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Taustalla	Taustalla	tausta	N	N|Sg|Ade	2	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+2	vaikuttaa	vaikuttaa	vaikuttaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	muun	muun	muu	Pron	Pron|Qnt|Sg|Gen	5	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=GEN]	_
+4	muassa	muassa	muassa	Adp	Adp	3	phrm	[POS=ADPOSITION]	_
+5	pilapiirroskohu	pilapiirroskohu	pilapiirroskohu	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+6	.	.	.	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+
+#None
+1	"	"	"	Pun	Pun|Quo|Ini	2	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=INITIAL]	_
+2	Siellä	Siellä	siellä	Adv	Adv|Dem	4	advl	[POS=ADVERB][SUBCAT=DEMONSTRATIVE]	_
+3	on	on	olla	V	V|Act|Ind|Pres|Sg3	4	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	ollut	ollut	olla	V	V|Act|PcpNut|Sg|Nom	28	obj	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+5	neljä	neljä	neljä	Num	Num|Card|Sg|Nom	8	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=NOM]	_
+6	terrorismiin	terrorismiin	terrorismi	N	N|Sg|Ill	7	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+7	liittyvää	liittyvää	liittyä	V	V|Act|PcpVa|Sg|Par	8	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=PAR]	_
+8	oikeudenkäyntiä	oikeudenkäyntiä	oikeudenkäynti	N	N|Sg|Par	3	subj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+9	viimeisen	viimeisen	viimeinen	A	A|Sg|Gen	10	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+10	neljä	neljä	neljä	Num	Num|Card|Sg|Nom	11	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=NOM]	_
+11	vuoden	vuoden	vuosi	N	N|Sg|Gen	4	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+12	aikana	aikana	aikana	Adp	Adp	11	phrm	[POS=ADPOSITION]	_
+13	ja	ja	ja	Pcle	Pcle|CC	15	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+14	neljä	neljä	neljä	Num	Num|Card|Sg|Nom	15	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=NOM]	_
+15	iskuyritystä	iskuyritystä	iskuyritys	N	N|Sg|Par	8	conjunct	[POS=NOUN][NUM=SG][CASE=PAR]	_
+16	Jyllands	Jyllands	Jyllands	N	N|Prop|Sg|Nom	17	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+17	Postenia	Postenia	Posten	Unknown	Unknown|Forgn	15	mod	[POS=UNKNOWN][SUBCAT=FOREIGN]	_
+18	ja	ja	ja	Pcle	Pcle|CC	19	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+19	pilapiirtäjää	pilapiirtäjää	pilapiirtäjä	N	N|Sg|Par	17	conjunct	[POS=NOUN][NUM=SG][CASE=PAR]	_
+20	vastaan	vastaan	vastaan	Adp	Adp	17	phrm	[POS=ADPOSITION]	_
+21	viimeisen	viimeisen	viimeinen	A	A|Sg|Gen	22	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+22	puolentoista	puolentoista	puolitoista	Num	Num|Card|Sg|Gen	23	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=GEN]	_
+23	vuoden	vuoden	vuosi	N	N|Sg|Gen	4	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+24	aikana	aikana	aikana	Adp	Adp	23	phrm	[POS=ADPOSITION]	_
+25	"	"	"	Pun	Pun|Quo|Fin	24	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=FINAL]	_
+26	,	,	,	Pun	Pun	25	dep	[POS=PUNCTUATION]	_
+27	Ranstorp	Ranstorp	Ranstorp	N	N|Prop|Sg|Nom	28	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+28	summaa	summaa	summata	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+29	.	.	.	Pun	Pun	28	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Myös	Myös	myös	Pcle	Pcle	2	attr	[POS=PARTICLE]	_
+2	Ruotsissa	Ruotsissa	Ruotsi	N	N|Prop|Sg|Ine	3	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+3	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	oma	oma	oma	A	A|Sg|Nom	5	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+5	pilapiirroskohunsa	pilapiirroskohunsa	pilapiirroskohu	N	N|Sg|Nom|Px3	3	subj	[POS=NOUN][NUM=SG][CASE=NOM][POSS=3]	_
+6	,	,	,	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	ja	ja	ja	Pcle	Pcle|CC	11	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+8	viime	viime	viime	A	A	9	attr	[POS=ADJECTIVE]	_
+9	vuoden	vuoden	vuosi	N	N|Sg|Gen	11	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+10	lopulla	lopulla	lopulla	Adp	Adp	9	phrm	[POS=ADPOSITION]	_
+11	tuli	tuli	tulla	V	V|Act|Ind|Past|Sg3	3	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+12	ilmi	ilmi	ilmi	Adv	Adv	11	phrv	[POS=ADVERB]	_
+13	,	,	,	Pun	Pun	12	dep	[POS=PUNCTUATION]	_
+14	että	että	että	Pcle	Pcle|CS	16	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+15	Ruotsissa	Ruotsissa	Ruotsi	N	N|Prop|Sg|Ine	16	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+16	suunniteltiin	suunniteltiin	suunnitella	V	V|Pass|Ind|Past	11	subj	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+17	iskua	iskua	isku	N	N|Sg|Par	16	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+18	Tanskaan	Tanskaan	Tanska	N	N|Prop|Sg|Ill	17	mod	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ILL]	_
+19	ja	ja	ja	Pcle	Pcle|CC	21	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+20	itsemurhapommittaja	itsemurhapommittaja	itsemurhapommittaja	N	N|Sg|Nom	21	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+21	räjäytti	räjäytti	räjäyttää	V	V|Act|Ind|Past|Sg3	16	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+22	itsensä	itsensä	itse	Pron	Pron|Refl|Sg|Gen|Px3	21	obj	[POS=PRONOUN][SUBCAT=REFLEXIVE][NUM=SG][CASE=GEN][POSS=3]	_
+23	Tukholmassa	Tukholmassa	Tukholma	N	N|Prop|Sg|Ine	21	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+24	.	.	.	Pun	Pun	23	dep	[POS=PUNCTUATION]	_
+
+#FinnTreeBank_2/wikipedia-samples_tab.txt0000664000175000017500000011376411737520007017320 0ustar  atroatro1
+
+#None
+1	Kansaneläkelaitos	Kansaneläkelaitos	kansaneläkelaitos	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	toimii	toimii	toimia	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	eduskunnan	eduskunnan	eduskunta	N	N|Sg|Gen	4	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+4	valvonnassa	valvonnassa	valvonta	N	N|Sg|Ine	2	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+5	.	.	.	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kela	Kela	kela	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	aloitti	aloitti	aloittaa	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+3	toimintansa	toimintansa	toiminta	N	N|Sg|Gen|Px3	2	obj	[POS=NOUN][NUM=SG][CASE=GEN][POSS=3]	_
+4	1.	1.	1.	Num	Num|Ord	5	attr	[POS=NUMERAL][SUBCAT=ORD]	_
+5	joulukuuta	joulukuuta	joulukuu	N	N|Sg|Par	6	attr	[POS=NOUN][NUM=SG][CASE=PAR]	_
+6	1937	1937	1937	Num	Num|Card	2	advl	[POS=NUMERAL][SUBCAT=CARD]	_
+7	ja	ja	ja	Pcle	Pcle|CC	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+8	se	se	se	Pron	Pron|Dem|Sg|Nom	9	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+9	oli	oli	olla	V	V|Act|Ind|Past|Sg3	2	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+10	aluksi	aluksi	aluksi	Adv	Adv	9	advl	[POS=ADVERB]	_
+11	nimensä	nimensä	nimi	N	N|Sg|Gen|Px3	9	advl	[POS=NOUN][NUM=SG][CASE=GEN][POSS=3]	_
+12	mukaisesti	mukaisesti	mukaisesti	Adp	Adp	11	phrm	[POS=ADPOSITION]	_
+13	eläkelaitos	eläkelaitos	eläkelaitos	N	N|Sg|Nom	9	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+14	.	.	.	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Alkuaikojen	Alkuaikojen	alkuaika	N	N|Pl|Gen	5	advl	[POS=NOUN][NUM=PL][CASE=GEN]	_
+2	jälkeen	jälkeen	jälkeen	Adp	Adp	1	phrm	[POS=ADPOSITION]	_
+3	toiminta	toiminta	toiminta	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	on	on	olla	V	V|Act|Ind|Pres|Sg3	5	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+5	uudistunut	uudistunut	uudistua	V	V|Act|PcpNut|Sg|Nom	0	main	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+6	,	,	,	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	laajentunut	laajentunut	laajentua	V	V|Act|PcpNut|Sg|Nom	5	conjunct	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+8	ja	ja	ja	Pcle	Pcle|CC	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+9	monipuolistunut	monipuolistunut	monipuolistua	V	V|Act|PcpNut|Sg|Nom	7	conjunct	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+10	.	.	.	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Ensimmäinen	Ensimmäinen	ensimmäinen	Num	Num|Ord|Sg|Nom	2	attr	[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=NOM]	_
+2	uudistus	uudistus	uudistus	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	vuonna	vuonna	vuosi	N	N|Sg|Ess	6	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+5	1963	1963	1963	Num	Num|Card	4	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+6	säädetty	säädetty	säätää	V	V|Pass|PcpNut|Sg|Nom	7	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+7	sairausvakuutuslaki	sairausvakuutuslaki	sairausvakuutuslaki	N	N|Sg|Nom	3	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	joka	joka	joka	Pron	Pron|Rel|Sg|Nom	10	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=NOM]	_
+10	tuli	tuli	tulla	V	V|Act|Ind|Past|Sg3	7	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+11	voimaan	voimaan	voimaan	Adv	Adv	10	phrv	[POS=ADVERB]	_
+12	1.	1.	1.	Num	Num|Ord	13	attr	[POS=NUMERAL][SUBCAT=ORD]	_
+13	syyskuuta	syyskuuta	syyskuu	N	N|Sg|Par	14	attr	[POS=NOUN][NUM=SG][CASE=PAR]	_
+14	1964	1964	1964	Num	Num|Card	10	advl	[POS=NUMERAL][SUBCAT=CARD]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Jokainen	Jokainen	jokainen	Pron	Pron|Qnt|Sg|Nom	4	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=NOM]	_
+2	Suomessa	Suomessa	Suomi	N	N|Prop|Sg|Ine	3	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+3	asuva	asuva	asua	V	V|Act|PcpVa|Sg|Nom	4	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=NOM]	_
+4	henkilö	henkilö	henkilö	N	N|Sg|Nom	5	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	tuli	tuli	tulla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+6	vakuutuksen	vakuutuksen	vakuutus	N	N|Sg|Gen	5	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	piiriin	piiriin	piiriin	Adp	Adp	6	phrm	[POS=ADPOSITION]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	johon	johon	joka	Pron	Pron|Rel|Sg|Ill	10	advl	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=ILL]	_
+10	kuuluvat	kuuluvat	kuulua	V	V|Act|Ind|Pres|Pl3	6	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+11	sairaanhoitokorvaukset	sairaanhoitokorvaukset	sairaanhoitokorvaus	N	N|Pl|Nom	10	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+12	(	(	(	Pun	Pun	11	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+13	lääkärinpalkkioiden	lääkärinpalkkioiden	lääkärinpalkkio	N	N|Pl|Gen	20	obj	[POS=NOUN][NUM=PL][CASE=GEN]	_
+14	,	,	,	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+15	tutkimuksen	tutkimuksen	tutkimus	N	N|Sg|Gen	13	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+16	ja	ja	ja	Pcle	Pcle|CC	17	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+17	hoidon	hoidon	hoito	N	N|Sg|Gen	15	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+18	sekä	sekä	sekä	Pcle	Pcle|CC	19	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+19	lääkkeiden	lääkkeiden	lääke	N	N|Pl|Gen	17	conjunct	[POS=NOUN][NUM=PL][CASE=GEN]	_
+20	korvaaminen	korvaaminen	korvaaminen	N	N|Sg|Nom	11	mod	[POS=NOUN][NUM=SG][CASE=NOM]	_
+21	)	)	)	Pun	Pun	20	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=FINAL]	_
+22	sekä	sekä	sekä	Pcle	Pcle|CC	23	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+23	työtulovakuutus	työtulovakuutus	työtulovakuutus	N	N|Sg|Nom	11	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+24	(	(	(	Pun	Pun	23	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+25	sairauspäiväraha	sairauspäiväraha	sairauspäiväraha	N	N|Sg|Nom	23	mod	[POS=NOUN][NUM=SG][CASE=NOM]	_
+26	,	,	,	Pun	Pun	27	phrm	[POS=PUNCTUATION]	_
+27	äitiys-	äitiys-	äitiys-	Trunc	Trunc|Prefix	28	conjunct	[POS=TRUNCATED][POSITION=PREFIX]	_
+28	isyys	isyys	isyys	Trunc	Trunc|Prefix	30	conjunct	[POS=TRUNCATED][POSITION=PREFIX]	_
+29	ja	ja	ja	Pcle	Pcle|CC	30	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+30	vanhempainraha	vanhempainraha	vanhempainraha	N	N|Sg|Nom	25	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+31	korvauksena	korvauksena	korvaus	N	N|Sg|Ess	25	mod	[POS=NOUN][NUM=SG][CASE=ESS]	_
+32	sairauden	sairauden	sairaus	N	N|Sg|Gen	37	subj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+33	sekä	sekä	sekä	Pcle	Pcle|CC	34	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+34	raskauden	raskauden	raskaus	N	N|Sg|Gen	32	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+35	ja	ja	ja	Pcle	Pcle|CC	36	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+36	synnytyksen	synnytyksen	synnytys	N	N|Sg|Gen	34	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+37	aiheuttamista	aiheuttamista	aiheuttaa	V	V|PcpAg|Pl|Ela	39	attr	[POS=VERB][PCP=AGENT][NUM=PL][CASE=ELA]	_
+38	työansion	työansion	työansio	N	N|Sg|Gen	39	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+39	menetyksistä	menetyksistä	menetys	N	N|Pl|Ela	31	mod	[POS=NOUN][NUM=PL][CASE=ELA]	_
+40	.	.	.	Pun	Pun	39	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Sairausvakuutuslaki	Sairausvakuutuslaki	sairausvakuutuslaki	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	toissijainen	toissijainen	toissijainen	N	N|Sg|Nom	2	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	,	,	,	Pun	Pun	3	dep	[POS=PUNCTUATION]	_
+5	eli	eli	eli	Pcle	Pcle|CC	17	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+6	jos	jos	jos	Pcle	Pcle|CS	8	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+7	vakuutetulla	vakuutetulla	vakuuttaa	V	V|Pass|PcpNut|Sg|Ade	8	subj	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=ADE]	_
+8	on	on	olla	V	V|Act|Ind|Pres|Sg3	17	advl	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+9	oikeus	oikeus	oikeus	N	N|Sg|Nom	8	obj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+10	saada	saada	saada	V	V|Act|InfA|Lat	9	mod	[POS=VERB][VOICE=ACT][INF=A][CASE=LAT]	_
+11	lakiin	lakiin	laki	N	N|Sg|Ill	12	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+12	perustuvaa	perustuvaa	perustua	V	V|Act|PcpVa|Sg|Par	13	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=PAR]	_
+13	korvausta	korvausta	korvaus	N	N|Sg|Par	10	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+14	muualta	muualta	muualta	Adv	Adv|Qnt	10	advl	[POS=ADVERB][SUBCAT=QUANTOR]	_
+15	,	,	,	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+16	hän	hän	hän	Pron	Pron|Pers|Sg3|Nom	17	subj	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=NOM]	_
+17	on	on	olla	V	V|Act|Ind|Pres|Sg3	2	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+18	oikeutettu	oikeutettu	oikeuttaa	V	V|Pass|PcpNut|Sg|Nom	17	scomp	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+19	sairausvakuutuslain	sairausvakuutuslain	sairausvakuutuslaki	N	N|Sg|Gen	20	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+20	mukaisiin	mukaisiin	mukainen	A	A|Pl|Ill	21	attr	[POS=ADJECTIVE][NUM=PL][CASE=ILL]	_
+21	etuuksiin	etuuksiin	etuus	N	N|Pl|Ill	18	mod	[POS=NOUN][NUM=PL][CASE=ILL]	_
+22	vain	vain	vain	Pcle	Pcle	23	attr	[POS=PARTICLE]	_
+23	sikäli	sikäli	sikäli	Adv	Adv|Dem	17	advl	[POS=ADVERB][SUBCAT=DEMONSTRATIVE]	_
+24	ja	ja	ja	Pcle	Pcle|CC	26	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+25	siltä	siltä	se	Pron	Pron|Dem|Sg|Abl	26	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=ABL]	_
+26	osin	osin	osa	N	N|Pl|Ins	23	conjunct	[POS=NOUN][NUM=PL][CASE=INS]	_
+27	kuin	kuin	kuin	Pcle	Pcle|CS	32	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+28	muun	muun	muu	Pron	Pron|Qnt|Sg|Gen	29	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=GEN]	_
+29	lain	lain	laki	N	N|Sg|Gen	30	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+30	mukainen	mukainen	mukainen	A	A|Sg|Nom	31	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+31	korvaus	korvaus	korvaus	N	N|Sg|Nom	32	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+32	jää	jää	jäädä	V	V|Act|Ind|Pres|Sg3	26	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+33	pienemmäksi	pienemmäksi	pieni	A	A|Cmp|Sg|Tra	32	advl	[POS=ADJECTIVE][CMP=CMP][NUM=SG][CASE=TRA]	_
+34	.	.	.	Pun	Pun	33	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Sairausvakuutuslakiin	Sairausvakuutuslakiin	sairausvakuutuslaki	N	N|Sg|Ill	4	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+2	nähden	nähden	nähden	Adp	Adp	1	phrm	[POS=ADPOSITION]	_
+3	ensisijaisia	ensisijaisia	ensisijainen	A	A|Pl|Par	4	scomp	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+4	ovat	ovat	olla	V	V|Act|Ind|Pres|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+5	mm.	mm.	mm.	Pcle	Pcle|Abbr	6	attr	[POS=PARTICLE][SUBCAT=ABBREVIATION]	_
+6	liikennevakuutus	liikennevakuutus	liikennevakuutus	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	(	(	(	Pun	Pun	6	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+8	korvaa	korvaa	korvata	V	V|Act|Ind|Pres|Sg3	6	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+9	henkilövahingot	henkilövahingot	henkilövahinko	N	N|Pl|Nom	8	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+10	,	,	,	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	jotka	jotka	joka	Pron	Pron|Rel|Pl|Nom	12	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=NOM]	_
+12	syntyvät	syntyvät	syntyä	V	V|Act|Ind|Pres|Pl3	9	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+13	kun	kun	kun	Pcle	Pcle|CS	15	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+14	moottoriajoneuvoa	moottoriajoneuvoa	moottoriajoneuvo	N	N|Sg|Par	15	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+15	käytetään	käytetään	käyttää	V	V|Pass|Ind|Pres	12	advl	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+16	liikenteessä	liikenteessä	liikenne	N	N|Sg|Ine	15	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+17	)	)	)	Pun	Pun	16	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=FINAL]	_
+18	,	,	,	Pun	Pun	17	dep	[POS=PUNCTUATION]	_
+19	tapaturmavakuutuslaki	tapaturmavakuutuslaki	tapaturmavakuutuslaki	N	N|Sg|Nom	6	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+20	(	(	(	Pun	Pun	19	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+21	korvaa	korvaa	korvata	V	V|Act|Ind|Pres|Sg3	19	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+22	työssä	työssä	työ	N	N|Sg|Ine	23	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+23	saadusta	saadusta	saada	V	V|Pass|PcpNut|Sg|Ela	24	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=ELA]	_
+24	vammasta	vammasta	vamma	N	N|Sg|Ela	25	advl	[POS=NOUN][NUM=SG][CASE=ELA]	_
+25	aiheutuvat	aiheutuvat	aiheutua	V	V|Act|PcpVa|Pl|Nom	26	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=NOM]	_
+26	kustannukset	kustannukset	kustannus	N	N|Pl|Nom	21	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+27	ja	ja	ja	Pcle	Pcle|CC	29	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+28	työansion	työansion	työansio	N	N|Sg|Gen	29	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+29	menetyksen	menetyksen	menetys	N	N|Sg|Gen	26	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+30	)	)	)	Pun	Pun	29	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=FINAL]	_
+31	sekä	sekä	sekä	Pcle	Pcle|CC	32	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+32	vahingonkorvauslaki	vahingonkorvauslaki	vahingonkorvauslaki	N	N|Sg|Nom	19	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+33	(	(	(	Pun	Pun	32	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+34	korvaa	korvaa	korvata	V	V|Act|Ind|Pres|Sg3	32	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+35	toisen	toisen	toinen	Pron	Pron|Qnt|Sg|Gen	36	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=GEN]	_
+36	henkilön	henkilön	henkilö	N	N|Sg|Gen	40	subj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+37	tahallisesti	tahallisesti	tahallisesti	Adv	Adv	40	advl	[POS=ADVERB]	_
+38	tai	tai	tai	Pcle	Pcle|CC	39	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+39	tuottamuksellisesti	tuottamuksellisesti	tuottamuksellisesti	Adv	Adv	37	conjunct	[POS=ADVERB]	_
+40	aiheuttaman	aiheuttaman	aiheuttaa	V	V|PcpAg|Sg|Gen	41	attr	[POS=VERB][PCP=AGENT][NUM=SG][CASE=GEN]	_
+41	vamman	vamman	vamma	N	N|Sg|Gen	34	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+42	siitä	siitä	se	Pron	Pron|Dem|Sg|Ela	43	advl	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=ELA]	_
+43	aiheutuvine	aiheutuvine	aiheutua	V	V|Act|PcpVa|Com	45	attr	[POS=VERB][VOICE=ACT][PCP=VA][CASE=COM]	_
+44	taloudellisine	taloudellisine	taloudellinen	A	A|Com	45	attr	[POS=ADJECTIVE][CASE=COM]	_
+45	menetyksineen	menetyksineen	menetys	N	N|Com|Px3	41	mod	[POS=NOUN][CASE=COM][POSS=3]	_
+46	.	.	.	Pun	Pun	45	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Jopa	Jopa	jopa	Pcle	Pcle	4	attr	[POS=PARTICLE]	_
+2	tavallinen	tavallinen	tavallinen	A	A|Sg|Nom	4	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+3	kadulla	kadulla	katu	N	N|Sg|Ade	4	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+4	liukastuminen	liukastuminen	liukastuminen	N	N|Sg|Nom	5	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+6	katuosuuden	katuosuuden	katuosuus	N	N|Sg|Gen	7	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	kunnossapidosta	kunnossapidosta	kunnossapito	N	N|Sg|Ela	8	advl	[POS=NOUN][NUM=SG][CASE=ELA]	_
+8	vastaavan	vastaavan	vastata	V	V|Act|PcpVa|Sg|Gen	12	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=GEN]	_
+9	,	,	,	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+10	ei	ei	ei	V	V|Neg|Act|Sg3	11	phrm	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+11	sairausvakuutuksen	sairausvakuutuksen	sairausvakuutus	N	N|Sg|Gen	8	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+12	vastuulla	vastuulla	vastuu	N	N|Sg|Ade	5	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+13	)	)	)	Pun	Pun	12	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=FINAL]	_
+14	.	.	.	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Nykyisin	Nykyisin	nykyisin	Adv	Adv	4	advl	[POS=ADVERB]	_
+2	Kelan	Kelan	kela	N	N|Prop|Sg|Gen	3	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+3	vastuulla	vastuulla	vastuu	N	N|Sg|Ade	4	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+4	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+5	esimerkiksi	esimerkiksi	esimerkiksi	Adv	Adv	6	attr	[POS=ADVERB]	_
+6	kansaneläke	kansaneläke	kansaneläke	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	,	,	,	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+8	kuntoutusraha	kuntoutusraha	kuntoutusraha	N	N|Sg|Nom	6	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+9	,	,	,	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+10	lapsilisä	lapsilisä	lapsilisä	N	N|Sg|Nom	8	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+11	,	,	,	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+12	lääkekorvaukset	lääkekorvaukset	lääkekorvaus	N	N|Pl|Nom	10	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+13	,	,	,	Pun	Pun	12	dep	[POS=PUNCTUATION]	_
+14	opintotuki	opintotuki	opintotuki	N	N|Sg|Nom	12	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+15	,	,	,	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+16	perhe-eläke	perhe-eläke	perhe-eläke	N	N|Sg|Nom	14	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+17	,	,	,	Pun	Pun	16	dep	[POS=PUNCTUATION]	_
+18	peruspäiväraha	peruspäiväraha	peruspäiväraha	N	N|Sg|Nom	16	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+19	,	,	,	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+20	sairaanhoitokorvaukset	sairaanhoitokorvaukset	sairaanhoitokorvaus	N	N|Pl|Nom	18	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+21	,	,	,	Pun	Pun	20	dep	[POS=PUNCTUATION]	_
+22	sairauspäiväraha	sairauspäiväraha	sairauspäiväraha	N	N|Sg|Nom	20	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+23	,	,	,	Pun	Pun	22	dep	[POS=PUNCTUATION]	_
+24	sotilasavustus	sotilasavustus	sotilasavustus	N	N|Sg|Nom	22	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+25	,	,	,	Pun	Pun	24	dep	[POS=PUNCTUATION]	_
+26	työmarkkinatuki	työmarkkinatuki	työmarkkinatuki	N	N|Sg|Nom	24	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+27	,	,	,	Pun	Pun	26	dep	[POS=PUNCTUATION]	_
+28	työttömyyseläke	työttömyyseläke	työttömyyseläke	N	N|Sg|Nom	26	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+29	,	,	,	Pun	Pun	28	dep	[POS=PUNCTUATION]	_
+30	vammaistuki	vammaistuki	vammaistuki	N	N|Sg|Nom	28	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+31	,	,	,	Pun	Pun	30	dep	[POS=PUNCTUATION]	_
+32	vanhuuseläke	vanhuuseläke	vanhuuseläke	N	N|Sg|Nom	30	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+33	ja	ja	ja	Pcle	Pcle|CC	35	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+34	yleinen	yleinen	yleinen	A	A|Sg|Nom	35	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+35	asumistuki	asumistuki	asumistuki	N	N|Sg|Nom	32	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+36	.	.	.	Pun	Pun	35	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Elatustuen	Elatustuen	elatustuki	N	N|Sg|Gen	2	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	maksatus	maksatus	maksatus	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	siirtyi	siirtyi	siirtyä	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	kunnilta	kunnilta	kunta	N	N|Pl|Abl	3	advl	[POS=NOUN][NUM=PL][CASE=ABL]	_
+5	Kelan	Kelan	kela	N	N|Prop|Sg|Gen	6	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	hoidettavaksi	hoidettavaksi	hoitaa	V	V|Pass|PcpVa|Sg|Tra	3	advl	[POS=VERB][VOICE=PSS][PCP=VA][NUM=SG][CASE=TRA]	_
+7	1.	1.	1.	Num	Num|Ord	8	attr	[POS=NUMERAL][SUBCAT=ORD]	_
+8	huhtikuuta	huhtikuuta	huhtikuu	N	N|Sg|Par	9	attr	[POS=NOUN][NUM=SG][CASE=PAR]	_
+9	2009	2009	2009	Num	Num|Card	3	advl	[POS=NUMERAL][SUBCAT=CARD]	_
+10	.	.	.	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Useimmista	Useimmista	usea	Pron	Pron|Qnt|Sup|Pl|Ela	3	attr	[POS=PRONOUN][SUBCAT=QUANTOR][CMP=SUP][NUM=PL][CASE=ELA]	_
+2	Kelan	Kelan	kela	N	N|Prop|Sg|Gen	3	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+3	päätöksistä	päätöksistä	päätös	N	N|Pl|Ela	5	advl	[POS=NOUN][NUM=PL][CASE=ELA]	_
+4	voi	voi	voida	V	V|Act|Ind|Pres|Sg3	5	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+5	hakea	hakea	hakea	V	V|Act|InfA|Lat	0	main	[POS=VERB][VOICE=ACT][INF=A][CASE=LAT]	_
+6	muutosta	muutosta	muutos	N	N|Sg|Par	5	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+7	sosiaaliturvan	sosiaaliturvan	sosiaaliturva	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	muutoksenhakulautakunnalta	muutoksenhakulautakunnalta	muutoksenhakulautakunta	N	N|Sg|Abl	5	advl	[POS=NOUN][NUM=SG][CASE=ABL]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Työttömyysturvaa	Työttömyysturvaa	työttömyysturva	N	N|Sg|Par	2	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+2	koskevista	koskevista	koskea	V	V|Act|PcpVa|Pl|Ela	3	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=ELA]	_
+3	päätöksistä	päätöksistä	päätös	N	N|Pl|Ela	6	advl	[POS=NOUN][NUM=PL][CASE=ELA]	_
+4	asiakas	asiakas	asiakas	N	N|Sg|Nom	5	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	voi	voi	voida	V	V|Act|Ind|Pres|Sg3	6	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+6	valittaa	valittaa	valittaa	V	V|Act|InfA|Lat	0	main	[POS=VERB][VOICE=ACT][INF=A][CASE=LAT]	_
+7	työttömyysturvan	työttömyysturvan	työttömyysturva	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	muutoksenhakulautakuntaan	muutoksenhakulautakuntaan	muutoksenhakulautakunta	N	N|Sg|Ill	6	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+9	ja	ja	ja	Pcle	Pcle|CC	12	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+10	opintotukea	opintotukea	opintotuki	N	N|Sg|Par	11	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+11	koskevista	koskevista	koskea	V	V|Act|PcpVa|Pl|Ela	12	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=ELA]	_
+12	päätöksistä	päätöksistä	päätös	N	N|Pl|Ela	3	conjunct	[POS=NOUN][NUM=PL][CASE=ELA]	_
+13	opintotuen	opintotuen	opintotuki	N	N|Sg|Gen	14	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+14	muutoksenhakulautakuntaan	muutoksenhakulautakuntaan	muutoksenhakulautakunta	N	N|Sg|Ill	8	conjunct	[POS=NOUN][NUM=SG][CASE=ILL]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Toisena	Toisena	toinen	Pron	Pron|Qnt|Sg|Ess||Num|Ord|Sg|Ess	2	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=ESS]||[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=ESS]	_
+2	muutoksenhakuasteena	muutoksenhakuasteena	muutoksenhakuaste	N	N|Sg|Ess	3	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+3	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	vakuutusoikeus	vakuutusoikeus	vakuutusoikeus	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	.	.	.	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Tulevaisuudessa	Tulevaisuudessa	tulevaisuus	N	N|Sg|Ine	3	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+2	Kansaneläkelaitos	Kansaneläkelaitos	kansaneläkelaitos	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	hoitaa	hoitaa	hoitaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	myös	myös	myös	Pcle	Pcle	5	attr	[POS=PARTICLE]	_
+5	sähköisten	sähköisten	sähköinen	A	A|Pl|Gen	6	attr	[POS=ADJECTIVE][NUM=PL][CASE=GEN]	_
+6	potilasasiakirjojen	potilasasiakirjojen	potilasasiakirja	N	N|Pl|Gen	8	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+7	valtakunnallisen	valtakunnallisen	valtakunnallinen	A	A|Sg|Gen	8	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+8	arkistoinnin	arkistoinnin	arkistointi	N	N|Sg|Gen	3	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Sähköistä	Sähköistä	sähköinen	A	A|Sg|Par	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=PAR]	_
+2	reseptiä	reseptiä	resepti	N	N|Sg|Par	3	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+3	koskeva	koskeva	koskea	V	V|Act|PcpVa|Sg|Nom	4	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=NOM]	_
+4	lainsäädäntö	lainsäädäntö	lainsäädäntö	N	N|Sg|Nom	5	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	astui	astui	astua	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+6	voimaan	voimaan	voimaan	Adv	Adv	5	phrv	[POS=ADVERB]	_
+7	1.	1.	1.	Num	Num|Ord	8	attr	[POS=NUMERAL][SUBCAT=ORD]	_
+8	huhtikuuta	huhtikuuta	huhtikuu	N	N|Sg|Par	9	attr	[POS=NOUN][NUM=SG][CASE=PAR]	_
+9	2007	2007	2007	Num	Num|Card	5	advl	[POS=NUMERAL][SUBCAT=CARD]	_
+10	ja	ja	ja	Pcle	Pcle|CC	17	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+11	sosiaali-	sosiaali-	sosiaali-	Trunc	Trunc|Prefix	13	conjunct	[POS=TRUNCATED][POSITION=PREFIX]	_
+12	ja	ja	ja	Pcle	Pcle|CC	13	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+13	terveydenhuollon	terveydenhuollon	terveydenhuolto	N	N|Sg|Gen	14	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+14	asiakastietojen	asiakastietojen	asiakastieto	N	N|Pl|Gen	15	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+15	käsittelyä	käsittelyä	käsittely	N	N|Sg|Par	16	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+16	koskeva	koskeva	koskea	V	V|Act|PcpVa|Sg|Nom	17	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=NOM]	_
+17	lainsäädäntö	lainsäädäntö	lainsäädäntö	N	N|Sg|Nom	4	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+18	1.	1.	1.	Num	Num|Ord	19	attr	[POS=NUMERAL][SUBCAT=ORD]	_
+19	heinäkuuta	heinäkuuta	heinäkuu	N	N|Sg|Par	20	attr	[POS=NOUN][NUM=SG][CASE=PAR]	_
+20	2007	2007	2007	Num	Num|Card	9	conjunct	[POS=NUMERAL][SUBCAT=CARD]	_
+21	.	.	.	Pun	Pun	20	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Toimintojen	Toimintojen	toiminto	N	N|Pl|Gen	4	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+2	ja	ja	ja	Pcle	Pcle|CC	3	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+3	rakenteiden	rakenteiden	rakenne	N	N|Pl|Gen	1	conjunct	[POS=NOUN][NUM=PL][CASE=GEN]	_
+4	uudistamishankkeet	uudistamishankkeet	uudistamishanke	N	N|Pl|Nom	5	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+5	toteutetaan	toteutetaan	toteuttaa	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+6	vuoden	vuoden	vuosi	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	2007	2007	2007	Num	Num|Card	6	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+8	loppuun	loppuun	loppu	N	N|Sg|Ill	5	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+9	mennessä	mennessä	mennessä	Adp	Adp	8	phrm	[POS=ADPOSITION]	_
+10	.	.	.	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Sähköinen	Sähköinen	sähköinen	A	A|Sg|Nom	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+2	arkisto	arkisto	arkisto	N	N|Sg|Nom	3	obj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	luotiin	luotiin	luoda	V	V|Pass|Ind|Past	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+4	2008	2008	2008	Num	Num|Card	3	advl	[POS=NUMERAL][SUBCAT=CARD]	_
+5	ja	ja	ja	Pcle	Pcle|CC	8	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+6	terveydenhuollon	terveydenhuollon	terveydenhuolto	N	N|Sg|Gen	7	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	organisaatiot	organisaatiot	organisaatio	N	N|Pl|Nom	8	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+8	liittävät	liittävät	liittää	V	V|Act|Ind|Pres|Pl3	3	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=PL3]	_
+9	tietonsa	tietonsa	tieto	N	N|Pl|Nom|Px3	8	obj	[POS=NOUN][NUM=PL][CASE=NOM][POSS=3]	_
+10	arkistoon	arkistoon	arkisto	N	N|Sg|Ill	8	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+11	2008	2008	2008	Num	Num|Card	8	advl	[POS=NUMERAL][SUBCAT=CARD]	_
+
+#None
+1	2011	2011	2011	Num	Num|Card	0	main	[POS=NUMERAL][SUBCAT=CARD]	_
+2	.	.	.	Pun	Pun	1	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suvasvesi	Suvasvesi	Suvasvesi	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	Vuoksen	Vuoksen	Vuoksi	N	N|Prop|Sg|Gen	4	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+4	vesistöön	vesistöön	vesistö	N	N|Sg|Ill	5	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+5	kuuluva	kuuluva	kuulua	V	V|Act|PcpVa|Sg|Nom	6	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=NOM]	_
+6	järvi	järvi	järvi	N	N|Sg|Nom	2	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	Itä-Suomessa	Itä-Suomessa	Itä-Suomi	N	N|Prop|Sg|Ine	2	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=INE]	_
+8	Kuopion	Kuopion	Kuopio	N	N|Prop|Sg|Gen	11	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+9	ja	ja	ja	Pcle	Pcle|CC	10	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+10	Leppävirran	Leppävirran	Leppävirta	N	N|Prop|Sg|Gen	8	conjunct	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+11	alueella	alueella	alue	N	N|Sg|Ade	2	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+12	.	.	.	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Järvi	Järvi	järvi	N	N|Sg|Nom	2	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	osa	osa	osa	N	N|Sg|Nom	4	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	Iso-Kallaa	Iso-Kallaa	Iso-Kalla	N	N|Prop|Sg|Par	2	scomp	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=PAR]	_
+5	.	.	.	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suvasvesi	Suvasvesi	Suvasvesi	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	koostuu	koostuu	koostua	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	kahdesta	kahdesta	kaksi	Num	Num|Card|Sg|Ela	4	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=ELA]	_
+4	avoselästä	avoselästä	avoselkä	N	N|Sg|Ela	2	advl	[POS=NOUN][NUM=SG][CASE=ELA]	_
+5	:	:	:	Pun	Pun	4	dep	[POS=PUNCTUATION]	_
+6	Kukkarinselästä	Kukkarinselästä	Kukkarinselkä	N	N|Prop|Sg|Ela	4	mod	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ELA]	_
+7	pohjoisessa	pohjoisessa	pohjoinen	N	N|Sg|Ine	6	mod	[POS=NOUN][NUM=SG][CASE=INE]	_
+8	ja	ja	ja	Pcle	Pcle|CC	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+9	Haapaselästä	Haapaselästä	Haapaselkä	N	N|Prop|Sg|Ela	6	conjunct	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ELA]	_
+10	etelässä	etelässä	etelä	N	N|Sg|Ine	9	mod	[POS=NOUN][NUM=SG][CASE=INE]	_
+11	.	.	.	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Näitä	Näitä	nämä	Pron	Pron|Dem|Pl|Par	3	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=PL][CASE=PAR]	_
+2	kahta	kahta	kaksi	Num	Num|Card|Sg|Par	3	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=PAR]	_
+3	selkää	selkää	selkä	N	N|Sg|Par	4	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+4	erottaa	erottaa	erottaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+5	saariryhmä	saariryhmä	saariryhmä	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+6	.	.	.	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suvasvedellä	Suvasvedellä	Suvasvesi	N	N|Prop|Sg|Ade	2	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ADE]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	kokonaisuudessaan	kokonaisuudessaan	kokonaisuudessaan	Adv	Adv	2	advl	[POS=ADVERB]	_
+4	688	688	688	Num	Num|Card	5	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+5	saarta	saarta	saari	N	N|Sg|Par	2	subj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+6	.	.	.	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suvasveden	Suvasveden	Suvasvesi	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	alue	alue	alue	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+4	pinta-alaltaan	pinta-alaltaan	pinta-ala	N	N|Sg|Abl|Px3	3	advl	[POS=NOUN][NUM=SG][CASE=ABL][POSS=3]	_
+5	234	234	234	Num	Num|Card	6	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+6	neliökilometriä	neliökilometriä	neliökilometri	N	N|Sg|Par	3	scomp	[POS=NOUN][NUM=SG][CASE=PAR]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kukkarinselkä	Kukkarinselkä	Kukkarinselkä	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	epätavallisen	epätavallisen	epätavallinen	A	A|Sg|Gen	4	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+4	syvä	syvä	syvä	A	A|Sg|Nom	2	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+5	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	mittakaavassa	mittakaavassa	mittakaava	N	N|Sg|Ine	2	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+7	,	,	,	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+8	sillä	sillä	sillä	Pcle	Pcle|CS	10	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+9	se	se	se	Pron	Pron|Dem|Sg|Nom	10	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+10	on	on	olla	V	V|Act|Ind|Pres|Sg3	2	advl	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+11	syvimmässä	syvimmässä	syvä	A	A|Sup|Sg|Ine	12	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=INE]	_
+12	kohdassaan	kohdassaan	kohta	N	N|Sg|Ine|Px3	10	advl	[POS=NOUN][NUM=SG][CASE=INE][POSS=3]	_
+13	89	89	89	Num	Num|Card	14	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+14	metriä	metriä	metri	N	N|Sg|Par	15	attr	[POS=NOUN][NUM=SG][CASE=PAR]	_
+15	syvä	syvä	syvä	A	A|Sg|Nom	10	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+16	.	.	.	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suvasvesi	Suvasvesi	Suvasvesi	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	Päijänteen	Päijänteen	Päijänne	N	N|Prop|Sg|Gen	2	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+4	(	(	(	Pun	Pun	3	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+5	95,3	95,3	95,3	Num	Num|Card	6	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+6	m	m	m	N	N|Abbr|Sg|Nom	3	mod	[POS=NOUN][SUBCAT=ABBREVIATION][NUM=SG][CASE=NOM]	_
+7	)	)	)	Pun	Pun	6	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=FINAL]	_
+8	ja	ja	ja	Pcle	Pcle|CC	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+9	Inarijärven	Inarijärven	Inarijärvi	N	N|Prop|Sg|Gen	3	conjunct	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+10	(	(	(	Pun	Pun	9	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=INITIAL]	_
+11	91,8	91,8	91,8	Num	Num|Card	12	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+12	m	m	m	N	N|Abbr|Sg|Nom	9	mod	[POS=NOUN][SUBCAT=ABBREVIATION][NUM=SG][CASE=NOM]	_
+13	)	)	)	Pun	Pun	12	dep	[POS=PUNCTUATION][SUBCAT=BRACKET][POSITION=FINAL]	_
+14	jälkeen	jälkeen	jälkeen	Adp	Adp	3	phrm	[POS=ADPOSITION]	_
+15	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	18	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+16	kolmanneksi	kolmanneksi	kolmas	Num	Num|Ord|Sg|Tra	17	attr	[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=TRA]	_
+17	syvin	syvin	syvä	A	A|Sup|Sg|Nom	18	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=NOM]	_
+18	järvi	järvi	järvi	N	N|Sg|Nom	2	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+19	.	.	.	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suvasvesi	Suvasvesi	Suvasvesi	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	myös	myös	myös	Pcle	Pcle	2	advl	[POS=PARTICLE]	_
+4	Kallaveden	Kallaveden	Kallavesi	N	N|Prop|Sg|Gen	5	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	reitin	reitin	reitti	N	N|Sg|Gen	9	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	kauneudestaan	kauneudestaan	kauneus	N	N|Sg|Ela|Px3	7	attr	[POS=NOUN][NUM=SG][CASE=ELA][POSS=3]	_
+7	kuulun	kuulun	kuulu	A	A|Sg|Gen	9	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+8	itäisen	itäisen	itäinen	A	A|Sg|Gen	9	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+9	laskuhaaran	laskuhaaran	laskuhaara	N	N|Sg|Gen	13	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+10	eli	eli	eli	Pcle	Pcle|CC	12	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+11	Heinäveden	Heinäveden	Heinävesi	N	N|Prop|Sg|Gen	12	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+12	reitin	reitin	reitti	N	N|Sg|Gen	9	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+13	alkupää	alkupää	alkupää	N	N|Sg|Nom	2	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+14	.	.	.	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Se	Se	se	Pron	Pron|Dem|Sg|Nom	2	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+2	rajoittaa	rajoittaa	rajoittaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	koillisesta	koillisesta	koillinen	N	N|Sg|Ela	2	advl	[POS=NOUN][NUM=SG][CASE=ELA]	_
+4	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	suurinta	suurinta	suuri	A	A|Sup|Sg|Par	6	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=PAR]	_
+6	saarta	saarta	saari	N	N|Sg|Par	2	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+7	Soisaloa	Soisaloa	Soisalo	N	N|Prop|Sg|Par	6	mod	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=PAR]	_
+8	.	.	.	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Vuonna	Vuonna	vuosi	N	N|Sg|Ess	4	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+2	2001	2001	2001	Num	Num|Card	1	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+3	Kukkarinselältä	Kukkarinselältä	Kukkarinselkä	N	N|Prop|Sg|Abl	4	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ABL]	_
+4	löydettiin	löydettiin	löytää	V	V|Pass|Ind|Past	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+5	meteoriittitörmäyksessä	meteoriittitörmäyksessä	meteoriittitörmäys	N	N|Sg|Ine	6	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+6	syntyviä	syntyviä	syntyä	V	V|Act|PcpVa|Pl|Par	7	attr	[POS=VERB][VOICE=ACT][PCP=VA][NUM=PL][CASE=PAR]	_
+7	pirstekartioita	pirstekartioita	pirstekartio	N	N|Pl|Par	4	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+8	,	,	,	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+9	mikä	mikä	mikä	Pron	Pron|Rel|Sg|Nom	10	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=NOM]	_
+10	teki	teki	tehdä	V	V|Act|Ind|Past|Sg3	4	advl	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+11	siitä	siitä	se	Pron	Pron|Dem|Sg|Ela	10	advl	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=ELA]	_
+12	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	15	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+13	kuudennen	kuudennen	kuudes	Num	Num|Ord|Sg|Gen	15	attr	[POS=NUMERAL][SUBCAT=ORD][NUM=SG][CASE=GEN]	_
+14	tunnetun	tunnetun	tunnettu	A	A|Sg|Gen	15	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+15	meteoriittikraatterin	meteoriittikraatterin	meteoriittikraatteri	N	N|Sg|Gen	10	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+16	.	.	.	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kraatteri	Kraatteri	kraatteri	N	N|Sg|Nom	11	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	,	,	,	Pun	Pun	1	dep	[POS=PUNCTUATION]	_
+3	joka	joka	joka	Pron	Pron|Rel|Sg|Nom	6	obj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=NOM]	_
+4	myös	myös	myös	Pcle	Pcle	6	advl	[POS=PARTICLE]	_
+5	yleisimmin	yleisimmin	yleisimmin	Adv	Adv|Sup	6	advl	[POS=ADVERB][CMP=SUP]	_
+6	tunnetaan	tunnetaan	tuntea	V	V|Pass|Ind|Pres	1	mod	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+7	nimellä	nimellä	nimi	N	N|Sg|Ade	6	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+8	Suvasvesi	Suvasvesi	Suvasvesi	N	N|Prop|Sg|Nom	9	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+9	North	North	North	Unknown	Unknown|Forgn	7	mod	[POS=UNKNOWN][SUBCAT=FOREIGN]	_
+10	,	,	,	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	sijaitsee	sijaitsee	sijaita	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+12	keskellä	keskellä	keskellä	Adp	Adp	13	phrm	[POS=ADPOSITION]	_
+13	Kukkarinselkää	Kukkarinselkää	Kukkarinselkä	N	N|Prop|Sg|Par	11	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=PAR]	_
+14	ja	ja	ja	Pcle	Pcle|CC	15	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+15	on	on	olla	V	V|Act|Ind|Pres|Sg3	11	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+16	noin	noin	noin	Pcle	Pcle	17	attr	[POS=PARTICLE]	_
+17	3,5	3,5	3,5	Num	Num|Card	18	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+18	kilometriä	kilometriä	kilometri	N	N|Sg|Par	15	scomp	[POS=NOUN][NUM=SG][CASE=PAR]	_
+19	halkaisijaltaan	halkaisijaltaan	halkaisija	N	N|Sg|Abl|Px3	15	advl	[POS=NOUN][NUM=SG][CASE=ABL][POSS=3]	_
+20	.	.	.	Pun	Pun	19	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kraatterin	Kraatterin	kraatteri	N	N|Sg|Gen	2	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	ikä	ikä	ikä	N	N|Sg|Nom	3	obj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	tunnetaan	tunnetaan	tuntea	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+4	nykyisinkin	nykyisinkin	nykyisin	Adv	Adv|Kin	3	advl	[POS=ADVERB][CLIT=KIN]	_
+5	huonosti	huonosti	huonosti	Adv	Adv	3	advl	[POS=ADVERB]	_
+6	:	:	:	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	se	se	se	Pron	Pron|Dem|Sg|Nom	8	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+8	on	on	olla	V	V|Act|Ind|Pres|Sg3	3	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+9	arviolta	arviolta	arvio	N	N|Sg|Abl	8	advl	[POS=NOUN][NUM=SG][CASE=ABL]	_
+10	240	240	240	Num	Num|Card	13	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+11	-	-	-	Pun	Pun	10	dep	[POS=PUNCTUATION][SUBCAT=DASH]	_
+12	780	780	780	Num	Num|Card	10	conjunct	[POS=NUMERAL][SUBCAT=CARD]	_
+13	miljoonaa	miljoonaa	miljoona	Num	Num|Card|Sg|Par	14	attr	[POS=NUMERAL][SUBCAT=CARD][NUM=SG][CASE=PAR]	_
+14	vuotta	vuotta	vuosi	N	N|Sg|Par	8	scomp	[POS=NOUN][NUM=SG][CASE=PAR]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Haapaselkä	Haapaselkä	haapaselkä	N	N|Prop|Sg|Nom	2	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	muistuttaa	muistuttaa	muistuttaa	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	pohjoista	pohjoista	pohjoinen	A	A|Sg|Par	4	attr	[POS=ADJECTIVE][NUM=SG][CASE=PAR]	_
+4	osaa	osaa	osa	N	N|Sg|Par	2	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+5	ja	ja	ja	Pcle	Pcle|CC	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+6	sen	sen	se	Pron	Pron|Dem|Sg|Gen	10	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=GEN]	_
+7	on	on	olla	V	V|Act|Ind|Pres|Sg3	9	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+8	myös	myös	myös	Pcle	Pcle	9	advl	[POS=PARTICLE]	_
+9	oletettu	oletettu	olettaa	V	V|Pass|PcpNut|Sg|Nom	2	conjunct	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+10	olevan	olevan	olla	V	V|Act|PcpVa|Sg|Gen	9	obj	[POS=VERB][VOICE=ACT][PCP=VA][NUM=SG][CASE=GEN]	_
+11	törmäyskraatteri	törmäyskraatteri	törmäyskraatteri	N	N|Sg|Nom	10	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+12	.	.	.	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Se	Se	se	Pron	Pron|Dem|Sg|Nom	2	obj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+2	tunnetaan	tunnetaan	tuntea	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+3	myös	myös	myös	Pcle	Pcle	4	attr	[POS=PARTICLE]	_
+4	nimellä	nimellä	nimi	N	N|Sg|Ade	2	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+5	Suvasvesi	Suvasvesi	Suvasvesi	N	N|Prop|Sg|Nom	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+6	South	South	South	Unknown	Unknown|Forgn	7	attr	[POS=UNKNOWN][SUBCAT=FOREIGN]	_
+7	-kraatteri	-kraatteri	-kraatteri	N	N|Sg|Nom	4	mod	[POS=NOUN][NUM=SG][CASE=NOM]	_
+8	.	.	.	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Se	Se	se	Pron	Pron|Dem|Sg|Nom	2	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+2	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	samankokoinen	samankokoinen	samankokoinen	A	A|Sg|Nom	2	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+4	kuin	kuin	kuin	Pcle	Pcle|CS	6	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+5	Kukkarinselän	Kukkarinselän	Kukkarinselkä	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	kraatteri	kraatteri	kraatteri	N	N|Sg|Nom	3	comp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	,	,	,	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+8	mutta	mutta	mutta	Pcle	Pcle|CC	14	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+9	sen	sen	se	Pron	Pron|Dem|Sg|Gen	10	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=GEN]	_
+10	ikää	ikää	ikä	N	N|Sg|Par	14	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+11	ei	ei	ei	V	V|Neg|Act|Sg3	12	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+12	ole	ole	olla	V	V|Act|Ind|Pres|ConNeg	14	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][NEG=CON]	_
+13	vielä	vielä	vielä	Pcle	Pcle	14	advl	[POS=PARTICLE]	_
+14	määritetty	määritetty	määrittää	V	V|Pass|PcpNut|Sg|Nom	2	conjunct	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Se	Se	se	Pron	Pron|Dem|Sg|Nom	2	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+2	saattaa	saattaa	saattaa	V	V|Act|Ind|Pres|Sg3	3	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+3	liittyä	liittyä	liittyä	V	V|Act|InfA|Lat	0	main	[POS=VERB][VOICE=ACT][INF=A][CASE=LAT]	_
+4	Suvasveden	Suvasveden	Suvasvesi	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	pohjoiseen	pohjoiseen	pohjoinen	A	A|Sg|Ill	6	attr	[POS=ADJECTIVE][NUM=SG][CASE=ILL]	_
+6	kraatteriin	kraatteriin	kraatteri	N	N|Sg|Ill	3	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+7	,	,	,	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+8	mikä	mikä	mikä	Pron	Pron|Rel|Sg|Nom	9	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=NOM]	_
+9	tekisi	tekisi	tehdä	V	V|Act|Cond|Sg3	3	advl	[POS=VERB][VOICE=ACT][MOOD=COND][PERS=SG3]	_
+10	Suvasveden	Suvasveden	Suvasvesi	N	N|Prop|Sg|Gen	11	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+11	rakenteesta	rakenteesta	rakenne	N	N|Sg|Ela	9	advl	[POS=NOUN][NUM=SG][CASE=ELA]	_
+12	erittäin	erittäin	erittäin	Pcle	Pcle	13	attr	[POS=PARTICLE]	_
+13	harvinaisen	harvinaisen	harvinainen	A	A|Sg|Gen	14	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+14	kaksoistörmäyskraatterin	kaksoistörmäyskraatterin	kaksoistörmäyskraatteri	N	N|Sg|Gen	9	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+15	.	.	.	Pun	Pun	14	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Suvasvesi	Suvasvesi	Suvasvesi	N	N|Prop|Sg|Nom	7	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+2	ja	ja	ja	Pcle	Pcle|CC	6	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+3	erityisesti	erityisesti	erityisesti	Adv	Adv	6	attr	[POS=ADVERB]	_
+4	sen	sen	se	Pron	Pron|Dem|Sg|Gen	6	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=GEN]	_
+5	Einesalon	Einesalon	Einesalo	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	saari	saari	saari	N	N|Sg|Nom	1	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	on	on	olla	V	V|Act|Ind|Pres|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+8	tunnettu	tunnettu	tunnettu	A	A|Sg|Nom	7	scomp	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+9	kirjailija	kirjailija	kirjailija	N	N|Sg|Nom	11	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+10	Martti	Martti	Martti	N	N|Prop|Sg|Nom	11	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+11	Merenmaan	Merenmaan	Merenmaa	N	N|Prop|Sg|Gen	12	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+12	työskentelypaikkana	työskentelypaikkana	työskentelypaikka	N	N|Sg|Ess	8	mod	[POS=NOUN][NUM=SG][CASE=ESS]	_
+13	ja	ja	ja	Pcle	Pcle|CC	14	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+14	esiintyy	esiintyy	esiintyä	V	V|Act|Ind|Pres|Sg3	7	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PRESENT][PERS=SG3]	_
+15	hänen	hänen	hän	Pron	Pron|Pers|Sg3|Gen	16	attr	[POS=PRONOUN][SUBCAT=PERSONAL][PERS=SG3][NUM=SG][CASE=GEN]	_
+16	tuotannossaan	tuotannossaan	tuotanto	N	N|Sg|Ine|Px3	14	advl	[POS=NOUN][NUM=SG][CASE=INE][POSS=3]	_
+17	.	.	.	Pun	Pun	16	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Liikkeen	Liikkeen	liike	N	N|Sg|Gen	6	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	mukaan	mukaan	mukaan	Adp	Adp	1	phrm	[POS=ADPOSITION]	_
+3	nurkkakuntainen	nurkkakuntainen	nurkkakuntainen	A	A|Sg|Nom	4	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+4	puoluepolitikointi	puoluepolitikointi	puoluepolitikointi	N	N|Sg|Nom	5	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+5	oli	oli	olla	V	V|Act|Ind|Past|Sg3	6	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+6	myrkyttänyt	myrkyttänyt	myrkyttää	V	V|Act|PcpNut|Sg|Nom	0	main	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+7	valtiollisen	valtiollisen	valtiollinen	A	A|Sg|Gen	8	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+8	ilmapiirin	ilmapiirin	ilmapiiri	N	N|Sg|Gen	6	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+9	ja	ja	ja	Pcle	Pcle|CC	10	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+10	saanut	saanut	saada	V	V|Act|PcpNut|Sg|Nom	6	conjunct	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=NOM]	_
+11	puolueet	puolueet	puolue	N	N|Pl|Nom	10	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+12	unohtamaan	unohtamaan	unohtaa	V	V|Act|InfMa|Ill	10	advl	[POS=VERB][VOICE=ACT][INF=MA][CASE=ILL]	_
+13	isänmaan	isänmaan	isänmaa	N	N|Sg|Gen	16	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+14	ja	ja	ja	Pcle	Pcle|CC	15	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+15	suomalaisten	suomalaisten	suomalainen	A	A|Pl|Gen	13	conjunct	[POS=ADJECTIVE][NUM=PL][CASE=GEN]	_
+16	edut	edut	etu	N	N|Pl|Nom	12	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+17	.	.	.	Pun	Pun	16	dep	[POS=PUNCTUATION]	_
+
+#None
+1	"	"	"	Pun	Pun|Quo|Ini	2	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=INITIAL]	_
+2	Rämettyneen	Rämettyneen	rämettyä	V	V|Act|PcpNut|Sg|Gen	4	attr	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=GEN]	_
+3	"	"	"	Pun	Pun|Quo|Fin	2	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=FINAL]	_
+4	parlamentarismin	parlamentarismin	parlamentarismi	N	N|Sg|Gen	7	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+5	tilalle	tilalle	tilalle	Adp	Adp	4	phrm	[POS=ADPOSITION]	_
+6	oli	oli	olla	V	V|Act|Ind|Past|Sg3	7	aux	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+7	otettava	otettava	ottaa	V	V|Pass|PcpVa|Sg|Nom	0	main	[POS=VERB][VOICE=PSS][PCP=VA][NUM=SG][CASE=NOM]	_
+8	luja	luja	luja	A	A|Sg|Nom	9	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+9	hallitusvalta	hallitusvalta	hallitusvalta	N	N|Sg|Nom	7	obj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+10	,	,	,	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	jonka	jonka	joka	Pron	Pron|Rel|Sg|Gen	12	attr	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=GEN]	_
+12	mahdollistajaksi	mahdollistajaksi	mahdollistaja	N	N|Sg|Tra	16	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+13	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	14	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+14	Liike	Liike	liike	N	N|Sg|Nom	16	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+15	Ry	Ry	Ry	N	N|Abbr|Sg|Nom	14	mod	[POS=NOUN][SUBCAT=ABBREVIATION][NUM=SG][CASE=NOM]	_
+16	ehdotti	ehdotti	ehdottaa	V	V|Act|Ind|Past|Sg3	9	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+17	mm.	mm.	mm.	Pcle	Pcle|Abbr	18	attr	[POS=PARTICLE][SUBCAT=ABBREVIATION]	_
+18	enemmistövaaleja	enemmistövaaleja	enemmistövaali	N	N|Pl|Par	16	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+19	.	.	.	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Maanpuolustuskorkeakoulun	Maanpuolustuskorkeakoulun	maanpuolustuskorkeakoulu	N	N|Sg|Gen	2	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	sotahistorian	sotahistorian	sotahistoria	N	N|Sg|Gen	7	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+3	ja	ja	ja	Pcle	Pcle|CC	6	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+4	Helsingin_yliopiston	Helsingin_yliopiston	Helsingin_yliopisto	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	historian	historian	historia	N	N|Sg|Gen	2	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	dosentti	dosentti	dosentti	N	N|Sg|Nom	9	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+8	Jussi	Jussi	Jussi	N	N|Prop|Sg|Nom	9	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+9	Niinistön	Niinistön	Niinistö	N	N|Prop|Sg|Gen	13	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+10	mielestä	mielestä	mielestä	Adp	Adp	9	phrm	[POS=ADPOSITION]	_
+11	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	12	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+12	liike	liike	liike	N	N|Sg|Nom	13	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+13	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+14	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	16	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+15	poliittisen	poliittisen	poliittinen	A	A|Sg|Gen	16	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+16	historian	historian	historia	N	N|Sg|Gen	18	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+17	voimakkain	voimakkain	voimakas	A	A|Sup|Sg|Nom	18	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=NOM]	_
+18	kansanliike	kansanliike	kansanliike	N	N|Sg|Nom	13	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+19	,	,	,	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+20	ell	jos	jos	Pcle	Pcle|CS	26	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	[STYLE=DIALECTAL][JOIN=NEXT]
+21	ei	ei	ei	V	V|Neg|Act|Sg3	26	phrm	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+22	jopa	jopa	jopa	Pcle	Pcle	23	attr	[POS=PARTICLE]	_
+23	koko	koko	koko	A	A	25	attr	[POS=ADJECTIVE]	_
+24	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	25	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+25	historian	historian	historia	N	N|Sg|Gen	26	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+26	voimakkain	voimakkain	voimakas	A	A|Sup|Sg|Nom	17	conjunct	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=NOM]	_
+27	,	,	,	Pun	Pun	26	dep	[POS=PUNCTUATION]	_
+28	koska	koska	koska	Pcle	Pcle|CS	30	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=ADVERBIAL]	_
+29	se	se	se	Pron	Pron|Dem|Sg|Nom	30	subj	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+30	sai	sai	saada	V	V|Act|Ind|Past|Sg3	13	advl	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+31	läpi	läpi	läpi	Adv	Adv	30	phrv	[POS=ADVERB]	_
+32	kaikki	kaikki	kaikki	Pron	Pron|Qnt|Nom	34	attr	[POS=PRONOUN][SUBCAT=QUANTOR][CASE=NOM]	_
+33	alkuperäiset	alkuperäiset	alkuperäinen	A	A|Pl|Nom	34	attr	[POS=ADJECTIVE][NUM=PL][CASE=NOM]	_
+34	vaatimuksensa	vaatimuksensa	vaatimus	N	N|Pl|Nom|Px3	30	obj	[POS=NOUN][NUM=PL][CASE=NOM][POSS=3]	_
+35	vuosien	vuosien	vuosi	N	N|Pl|Gen	30	advl	[POS=NOUN][NUM=PL][CASE=GEN]	_
+36	1929	1929	1929	Num	Num|Card	35	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+37	-	-	-	Pun	Pun	36	dep	[POS=PUNCTUATION][SUBCAT=DASH]	_
+38	1930	1930	1930	Num	Num|Card	36	conjunct	[POS=NUMERAL][SUBCAT=CARD]	_
+39	välillä	välillä	välillä	Adp	Adp	35	phrm	[POS=ADPOSITION]	_
+40	.	.	.	Pun	Pun	39	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Alun	Alun	alku	N	N|Sg|Gen	2	idiom	[POS=NOUN][NUM=SG][CASE=GEN]	_
+2	perin	perin	perin	Adv	Adv	4	advl	[POS=ADVERB]	_
+3	kansanliike	kansanliike	kansanliike	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+5	hallituksen	hallituksen	hallitus	N	N|Sg|Gen	6	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	tueksi	tueksi	tuki	N	N|Sg|Tra	7	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+7	suunnattu	suunnattu	suunnata	V	V|Pass|PcpNut|Sg|Nom	9	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=SG][CASE=NOM]	_
+8	"	"	"	Pun	Pun|Quo|Ini	7	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=INITIAL]	_
+9	ryhtiliike	ryhtiliike	ryhtiliike	N	N|Sg|Nom	4	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+10	"	"	"	Pun	Pun|Quo|Fin	9	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=FINAL]	_
+11	,	,	,	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+12	mutta	mutta	mutta	Pcle	Pcle|CC	13	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+13	muuttui	muuttui	muuttua	V	V|Act|Ind|Past|Sg3	4	conjunct	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+14	pian	pian	pian	Adv	Adv	13	advl	[POS=ADVERB]	_
+15	protestiliikkeeksi	protestiliikkeeksi	protestiliike	N	N|Sg|Tra	13	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+16	.	.	.	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	liikkeellä	liikkeellä	liike	N	N|Sg|Ade	3	subj	[POS=NOUN][NUM=SG][CASE=ADE]	_
+3	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	useita	useita	usea	Pron	Pron|Qnt|Pl|Par	6	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=PAR]	_
+5	eri	eri	eri	A	A	6	attr	[POS=ADJECTIVE]	_
+6	vaikutuskeinoja	vaikutuskeinoja	vaikutuskeino	N	N|Pl|Par	3	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Kansalaiskokoukset	Kansalaiskokoukset	kansalaiskokous	N	N|Pl|Nom	12	subj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+2	,	,	,	Pun	Pun	1	dep	[POS=PUNCTUATION]	_
+3	kansalaislähetystöt	kansalaislähetystöt	kansalaislähetystö	N	N|Pl|Nom	1	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+4	,	,	,	Pun	Pun	3	dep	[POS=PUNCTUATION]	_
+5	valtuuskunnat	valtuuskunnat	valtuuskunta	N	N|Pl|Nom	3	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+6	,	,	,	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	joukkovoiman	joukkovoiman	joukkovoima	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	osoitukset	osoitukset	osoitus	N	N|Pl|Nom	5	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+9	ja	ja	ja	Pcle	Pcle|CC	11	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+10	eri	eri	eri	A	A	11	attr	[POS=ADJECTIVE]	_
+11	kirjelmät	kirjelmät	kirjelmä	N	N|Pl|Nom	8	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+12	olivat	olivat	olla	V	V|Act|Ind|Past|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+13	kansanliikkeen	kansanliikkeen	kansanliike	N	N|Sg|Gen	15	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+14	rauhallisia	rauhallisia	rauhallinen	A	A|Pl|Par	15	attr	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+15	toimintamuotoja	toimintamuotoja	toimintamuoto	N	N|Pl|Par	12	scomp	[POS=NOUN][NUM=PL][CASE=PAR]	_
+16	.	.	.	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Vaikutuskeinoja	Vaikutuskeinoja	vaikutuskeino	N	N|Pl|Par	2	subj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+2	olivat	olivat	olla	V	V|Act|Ind|Past|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+3	myös	myös	myös	Pcle	Pcle	5	attr	[POS=PARTICLE]	_
+4	työväentalojen	työväentalojen	työväentalo	N	N|Pl|Gen	5	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+5	kiinninaulaukset	kiinninaulaukset	kiinninaulaus	N	N|Pl|Nom	2	scomp	[POS=NOUN][NUM=PL][CASE=NOM]	_
+6	ja	ja	ja	Pcle	Pcle|CC	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+7	kunnanvaltuustojen	kunnanvaltuustojen	kunnanvaltuusto	N	N|Pl|Gen	9	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+8	"	"	"	Pun	Pun|Quo|Ini	7	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=INITIAL]	_
+9	puhdistamiset	puhdistamiset	puhdistaminen	N	N|Pl|Nom	5	conjunct	[POS=NOUN][NUM=PL][CASE=NOM]	_
+10	"	"	"	Pun	Pun|Quo|Fin	9	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=FINAL]	_
+11	,	,	,	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+12	joissa	joissa	joka	Pron	Pron|Rel|Pl|Ine	16	advl	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=INE]	_
+13	kommunisteiksi	kommunisteiksi	kommunisti	N	N|Pl|Tra	14	advl	[POS=NOUN][NUM=PL][CASE=TRA]	_
+14	tunnettuja	tunnettuja	tuntea	V	V|Pass|PcpNut|Pl|Par	15	attr	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=PL][CASE=PAR]	_
+15	kunnanvaltuutettuja	kunnanvaltuutettuja	kunnanvaltuutettu	N	N|Pl|Par	16	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+16	painostettiin	painostettiin	painostaa	V	V|Pass|Ind|Past	9	mod	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+17	ja	ja	ja	Pcle	Pcle|CC	18	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+18	peloteltiin	peloteltiin	pelotella	V	V|Pass|Ind|Past	16	conjunct	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+19	eroamaan	eroamaan	erota	V	V|Act|InfMa|Ill	18	advl	[POS=VERB][VOICE=ACT][INF=MA][CASE=ILL]	_
+20	luottamustehtävistään	luottamustehtävistään	luottamustehtävä	N	N|Pl|Ela|Px3	19	advl	[POS=NOUN][NUM=PL][CASE=ELA][POSS=3]	_
+21	.	.	.	Pun	Pun	20	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	liike	liike	liike	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	ei	ei	ei	V	V|Neg|Act|Sg3	4	aux	[POS=VERB][SUBCAT=NEG][VOICE=ACT][PERS=SG3]	_
+4	kaihtanut	kaihtanut	kaihtaa	V	V|Act|Ind|Past|Sg|ConNeg	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][NUM=SG][NEG=CON]	_
+5	voimakeinoja	voimakeinoja	voimakeino	N	N|Pl|Par	4	obj	[POS=NOUN][NUM=PL][CASE=PAR]	_
+6	,	,	,	Pun	Pun	5	dep	[POS=PUNCTUATION]	_
+7	mikä	mikä	mikä	Pron	Pron|Rel|Sg|Nom	8	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=NOM]	_
+8	johti	johti	johtaa	V	V|Act|Ind|Past|Sg3	4	advl	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+9	myös	myös	myös	Pcle	Pcle	11	attr	[POS=PARTICLE]	_
+10	lakien	lakien	laki	N	N|Pl|Gen	11	obj	[POS=NOUN][NUM=PL][CASE=GEN]	_
+11	rikkomiseen	rikkomiseen	rikkominen	N	N|Sg|Ill	8	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+12	.	.	.	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Tunnetuin	Tunnetuin	tunnettu	A	A|Sup|Sg|Nom	2	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=NOM]	_
+2	toimintamuoto	toimintamuoto	toimintamuoto	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	kommunistien	kommunistien	kommunisti	N	N|Pl|Gen	8	attr	[POS=NOUN][NUM=PL][CASE=GEN]	_
+5	ja	ja	ja	Pcle	Pcle|CC	7	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+6	muiden	muiden	muu	Pron	Pron|Qnt|Pl|Gen	7	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=GEN]	_
+7	vasemmistolaisten	vasemmistolaisten	vasemmistolainen	A	A|Pl|Gen	4	conjunct	[POS=ADJECTIVE][NUM=PL][CASE=GEN]	_
+8	kyyditykset	kyyditykset	kyyditys	N	N|Pl|Nom	3	scomp	[POS=NOUN][NUM=PL][CASE=NOM]	_
+9	,	,	,	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+10	jotka	jotka	joka	Pron	Pron|Rel|Pl|Nom	11	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=PL][CASE=NOM]	_
+11	olivat	olivat	olla	V	V|Act|Ind|Past|Pl3	8	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+12	enemmän	enemmän	enemmän	Adv	Adv|Cmp	15	attr	[POS=ADVERB][CMP=CMP]	_
+13	tai	tai	tai	Pcle	Pcle|CC	14	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+14	vähemmän	vähemmän	vähemmän	Adv	Adv|Cmp	12	conjunct	[POS=ADVERB][CMP=CMP]	_
+15	väkivaltaisia	väkivaltaisia	väkivaltainen	A	A|Pl|Par	11	scomp	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+16	.	.	.	Pun	Pun	15	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Osa	Osa	osa	N	N|Sg|Nom	2	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+2	kyyditetyistä	kyyditetyistä	kyydittää	V	V|Pass|PcpNut|Pl|Ela	3	subj	[POS=VERB][VOICE=PSS][PCP=NUT][NUM=PL][CASE=ELA]	_
+3	päätyi	päätyi	päätyä	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	itärajan	itärajan	itäraja	N	N|Sg|Gen	3	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+5	yli	yli	yli	Adp	Adp	4	phrm	[POS=ADPOSITION]	_
+6	Neuvostoliittoon	Neuvostoliittoon	Neuvostoliitto	N	N|Prop|Sg|Ill	3	advl	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=ILL]	_
+7	.	.	.	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+
+#None
+1	"	"	"	Pun	Pun|Quo|Ini	2	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=INITIAL]	_
+2	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	3	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+3	lain	lain	laki	N	N|Sg|Gen	7	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+4	"	"	"	Pun	Pun|Quo|Fin	3	dep	[POS=PUNCTUATION][SUBCAT=QUOTATION][POSITION=FINAL]	_
+5	nojalla	nojalla	nojalla	Adp	Adp	3	phrm	[POS=ADPOSITION]	_
+6	lapualaiset	lapualaiset	lapualainen	A	A|Pl|Nom	7	subj	[POS=ADJECTIVE][NUM=PL][CASE=NOM]	_
+7	syyllistyivät	syyllistyivät	syyllistyä	V	V|Act|Ind|Past|Pl3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=PL3]	_
+8	laittomien	laittomien	laiton	A	A|Pl|Gen	9	attr	[POS=ADJECTIVE][NUM=PL][CASE=GEN]	_
+9	kyyditysten	kyyditysten	kyyditys	N	N|Pl|Gen	7	advl	[POS=NOUN][NUM=PL][CASE=GEN]	_
+10	lisäksi	lisäksi	lisäksi	Adp	Adp	9	phrm	[POS=ADPOSITION]	_
+11	lukuisiin	lukuisiin	lukuisa	A	A|Pl|Ill	12	attr	[POS=ADJECTIVE][NUM=PL][CASE=ILL]	_
+12	pahoinpitelyihin	pahoinpitelyihin	pahoinpitely	N	N|Pl|Ill	7	advl	[POS=NOUN][NUM=PL][CASE=ILL]	_
+13	ja	ja	ja	Pcle	Pcle|CC	16	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+14	jopa	jopa	jopa	Pcle	Pcle	16	attr	[POS=PARTICLE]	_
+15	muutamiin	muutamiin	muutama	Pron	Pron|Qnt|Pl|Ill	16	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=ILL]	_
+16	murhiin	murhiin	murha	N	N|Pl|Ill	12	conjunct	[POS=NOUN][NUM=PL][CASE=ILL]	_
+17	.	.	.	Pun	Pun	16	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	liike	liike	liike	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	toimi	toimi	toimia	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	vuoden	vuoden	vuosi	N	N|Sg|Gen	3	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+5	1929	1929	1929	Num	Num|Card	4	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+6	lopulta	lopulta	lopulta	Adp	Adp	4	phrm	[POS=ADPOSITION]	_
+7	vuoden	vuoden	vuosi	N	N|Sg|Gen	3	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	1930	1930	1930	Num	Num|Card	7	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+9	loppuun	loppuun	loppuun	Adp	Adp	7	phrm	[POS=ADPOSITION]	_
+10	spontaanina	spontaanina	spontaani	A	A|Sg|Ess	11	attr	[POS=ADJECTIVE][NUM=SG][CASE=ESS]	_
+11	kansanliikkeenä	kansanliikkeenä	kansanliike	N	N|Sg|Ess	3	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+12	,	,	,	Pun	Pun	11	dep	[POS=PUNCTUATION]	_
+13	jonka	jonka	joka	Pron	Pron|Rel|Sg|Gen	15	attr	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=GEN]	_
+14	vankkana	vankkana	vankka	A	A|Sg|Ess	15	attr	[POS=ADJECTIVE][NUM=SG][CASE=ESS]	_
+15	kannatusalueena	kannatusalueena	kannatusalue	N	N|Sg|Ess	16	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+16	oli	oli	olla	V	V|Act|Ind|Past|Sg3	11	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+17	Pohjanmaa	Pohjanmaa	Pohjanmaa	N	N|Prop|Sg|Nom	16	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+18	ideologisena	ideologisena	ideologinen	A	A|Sg|Ess	19	attr	[POS=ADJECTIVE][NUM=SG][CASE=ESS]	_
+19	johtajanaan	johtajanaan	johtajana	N	N|Sg|Ess|Px3	17	mod	[POS=NOUN][NUM=SG][CASE=ESS][POSS=3]	_
+20	karismaattinen	karismaattinen	karismaattinen	A	A|Sg|Nom	21	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+21	maalaisliittolainen	maalaisliittolainen	maalaisliittolainen	A	A|Sg|Nom	22	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+22	maanviljelijä	maanviljelijä	maanviljelijä	N	N|Sg|Nom	27	attr	[POS=NOUN][NUM=SG][CASE=NOM]	_
+23	,	,	,	Pun	Pun	22	dep	[POS=PUNCTUATION]	_
+24	aktivisti	aktivisti	aktivisti	N	N|Sg|Nom	22	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+25	ja	ja	ja	Pcle	Pcle|CC	26	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+26	talonpoika	talonpoika	talonpoika	N	N|Sg|Nom	24	conjunct	[POS=NOUN][NUM=SG][CASE=NOM]	_
+27	Kosola	Kosola	Kosola	N	N|Prop|Sg|Nom	19	mod	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+28	.	.	.	Pun	Pun	27	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Aluksi	Aluksi	aluksi	Adv	Adv	4	advl	[POS=ADVERB]	_
+2	kansanliikkeen	kansanliikkeen	kansanliike	N	N|Sg|Gen	3	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+3	ydinjärjestö	ydinjärjestö	ydinjärjestö	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+5	Suomen	Suomen	Suomi	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	Lukko	Lukko	lukko	N	N|Sg|Nom	4	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+7	,	,	,	Pun	Pun	6	dep	[POS=PUNCTUATION]	_
+8	jonka	jonka	joka	Pron	Pron|Rel|Sg|Gen	9	attr	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=GEN]	_
+9	johtajana	johtajana	johtaja	N	N|Sg|Ess	10	advl	[POS=NOUN][NUM=SG][CASE=ESS]	_
+10	toimi	toimi	toimia	V	V|Act|Ind|Past|Sg3	6	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+11	Artturi	Artturi	Artturi	N	N|Prop|Sg|Nom	12	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+12	Leinonen	Leinonen	Leinonen	N	N|Prop|Sg|Nom	10	subj	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=NOM]	_
+13	.	.	.	Pun	Pun	12	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Yleensä	Yleensä	yleensä	Adv	Adv	4	advl	[POS=ADVERB]	_
+2	kirjoitusasulla	kirjoitusasulla	kirjoitusasu	N	N|Sg|Ade	4	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+3	lapuanliike	lapuanliike	lapuanliike	N	N|Sg|Nom	2	mod	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	tarkoitetaan	tarkoitetaan	tarkoittaa	V	V|Pass|Ind|Pres	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PRESENT]	_
+5	juuri	juuri	juuri	Pcle	Pcle	6	attr	[POS=PARTICLE]	_
+6	tätä	tätä	tämä	Pron	Pron|Dem|Sg|Par	8	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=PAR]	_
+7	kansanliikkeen	kansanliikkeen	kansanliike	N	N|Sg|Gen	8	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	vaihetta	vaihetta	vaihe	N	N|Sg|Par	4	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+9	.	.	.	Pun	Pun	8	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Omana	Omana	oma	A	A|Sg|Ess	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=ESS]	_
+2	aikanaan	aikanaan	aika	N	N|Sg|Ess|Px3	5	advl	[POS=NOUN][NUM=SG][CASE=ESS][POSS=3]	_
+3	kansanliikettä	kansanliikettä	kansanliike	N	N|Sg|Par	5	obj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+4	kuitenkin	kuitenkin	kuitenkin	Pcle	Pcle	5	advl	[POS=PARTICLE]	_
+5	kutsuttiin	kutsuttiin	kutsua	V	V|Pass|Ind|Past	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+6	yleisesti	yleisesti	yleisesti	Adv	Adv	5	advl	[POS=ADVERB]	_
+7	vain	vain	vain	Pcle	Pcle	9	attr	[POS=PARTICLE]	_
+8	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	9	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+9	liikkeeksi	liikkeeksi	liike	N	N|Sg|Tra	5	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+10	.	.	.	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Marraskuussa	Marraskuussa	marraskuu	N	N|Sg|Ine	4	advl	[POS=NOUN][NUM=SG][CASE=INE]	_
+2	1930	1930	1930	Num	Num|Card	1	mod	[POS=NUMERAL][SUBCAT=CARD]	_
+3	liike	liike	liike	N	N|Sg|Nom	4	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+4	järjestäytyi	järjestäytyi	järjestäytyä	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+5	järjestöksi	järjestöksi	järjestö	N	N|Sg|Tra	4	advl	[POS=NOUN][NUM=SG][CASE=TRA]	_
+6	nimellä	nimellä	nimi	N	N|Sg|Ade	4	advl	[POS=NOUN][NUM=SG][CASE=ADE]	_
+7	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	8	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+8	Liike	Liike	liike	N	N|Sg|Nom	6	mod	[POS=NOUN][NUM=SG][CASE=NOM]	_
+9	Ry	Ry	Ry	N	N|Abbr|Sg|Nom	8	mod	[POS=NOUN][SUBCAT=ABBREVIATION][NUM=SG][CASE=NOM]	_
+10	,	,	,	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	joka	joka	joka	Pron	Pron|Rel|Sg|Nom	13	subj	[POS=PRONOUN][SUBCAT=RELATIVE][NUM=SG][CASE=NOM]	_
+12	kuitenkin	kuitenkin	kuitenkin	Pcle	Pcle	13	advl	[POS=PARTICLE]	_
+13	säilytti	säilytti	säilyttää	V	V|Act|Ind|Past|Sg3	5	mod	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+14	edelleen	edelleen	edelleen	Adv	Adv	13	advl	[POS=ADVERB]	_
+15	30000	30000	30000	Num	Num|Card	16	attr	[POS=NUMERAL][SUBCAT=CARD]	_
+16	aktiivijäsenensä	aktiivijäsenensä	aktiivijäsen	N	N|Sg|Gen|Px3	13	advl	[POS=NOUN][NUM=SG][CASE=GEN][POSS=3]	_
+17	ansiosta	ansiosta	ansiosta	Adp	Adp	16	phrm	[POS=ADPOSITION]	_
+18	kansanliikkeen	kansanliikkeen	kansanliike	N	N|Sg|Gen	19	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+19	mittasuhteet	mittasuhteet	mittasuhde	N	N|Pl|Nom	13	obj	[POS=NOUN][NUM=PL][CASE=NOM]	_
+20	.	.	.	Pun	Pun	19	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Tämä	Tämä	tämä	Pron	Pron|Dem|Sg|Nom	2	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=NOM]	_
+2	järjestö	järjestö	järjestö	N	N|Sg|Nom	3	obj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	lakkautettiin	lakkautettiin	lakkauttaa	V	V|Pass|Ind|Past	0	main	[POS=VERB][VOICE=PSS][MOOD=INDV][TENSE=PAST]	_
+4	epäonnistuneen	epäonnistuneen	epäonnistunut	A	A|Sg|Gen	6	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+5	Mäntsälän	Mäntsälän	Mäntsälä	N	N|Prop|Sg|Gen	6	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+6	kapinan	kapinan	kapina	N	N|Sg|Gen	3	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+7	jälkeen	jälkeen	jälkeen	Adp	Adp	6	phrm	[POS=ADPOSITION]	_
+8	.	.	.	Pun	Pun	7	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	liikkeen	liikkeen	liike	N	N|Sg|Gen	7	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+3	ja	ja	ja	Pcle	Pcle|CC	5	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+4	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	5	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+5	Liikkeen	Liikkeen	liike	N	N|Sg|Gen	2	conjunct	[POS=NOUN][NUM=SG][CASE=GEN]	_
+6	tärkein	tärkein	tärkeä	A	A|Sup|Sg|Nom	7	attr	[POS=ADJECTIVE][CMP=SUP][NUM=SG][CASE=NOM]	_
+7	ero	ero	ero	N	N|Sg|Nom	8	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+8	oli	oli	olla	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+9	jälkimmäisen	jälkimmäisen	jälkimmäinen	A	A|Sg|Gen	10	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+10	vaatimus	vaatimus	vaatimus	N	N|Sg|Nom	8	scomp	[POS=NOUN][NUM=SG][CASE=NOM]	_
+11	sosiaalidemokraattisen	sosiaalidemokraattisen	sosiaalidemokraattinen	A	A|Sg|Gen	17	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+12	eli	eli	eli	Pcle	Pcle|CC	16	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+13	kaiken	kaiken	kaikki	Pron	Pron|Qnt|Sg|Gen	16	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=GEN]	_
+14	jäljelle	jäljelle	jäljelle	Adv	Adv	15	phrv	[POS=ADVERB]	_
+15	jääneen	jääneen	jäädä	V	V|Act|PcpNut|Sg|Gen	16	attr	[POS=VERB][VOICE=ACT][PCP=NUT][NUM=SG][CASE=GEN]	_
+16	marxilaisen	marxilaisen	marxilainen	A	A|Sg|Gen	11	mod	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+17	toiminnan	toiminnan	toiminta	N	N|Sg|Gen	18	obj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+18	kieltämisestä	kieltämisestä	kieltäminen	N	N|Sg|Ela	10	mod	[POS=NOUN][NUM=SG][CASE=ELA]	_
+19	.	.	.	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Alkuperäinen	Alkuperäinen	alkuperäinen	A	A|Sg|Nom	2	attr	[POS=ADJECTIVE][NUM=SG][CASE=NOM]	_
+2	kansanliike	kansanliike	kansanliike	N	N|Sg|Nom	3	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	nojasi	nojasi	nojata	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+4	ns.	ns.	ns.	Pcle	Pcle|Abbr	5	attr	[POS=PARTICLE][SUBCAT=ABBREVIATION]	_
+5	valkoiseen	valkoiseen	valkoinen	A	A|Sg|Ill	6	attr	[POS=ADJECTIVE][NUM=SG][CASE=ILL]	_
+6	työväkeen	työväkeen	työväki	N	N|Sg|Ill	3	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+7	eli	eli	eli	Pcle	Pcle|CC	9	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+8	ei-sosialistisiin	ei-sosialistisiin	ei-sosialistinen	A	A|Pl|Ill	9	attr	[POS=ADJECTIVE][NUM=PL][CASE=ILL]	_
+9	työläisiin	työläisiin	työläinen	N	N|Pl|Ill	6	conjunct	[POS=NOUN][NUM=PL][CASE=ILL]	_
+10	,	,	,	Pun	Pun	9	dep	[POS=PUNCTUATION]	_
+11	erityisesti	erityisesti	erityisesti	Adv	Adv	13	attr	[POS=ADVERB]	_
+12	körttiläisiin	körttiläisiin	körttiläinen	A	A|Pl|Ill	13	attr	[POS=ADJECTIVE][NUM=PL][CASE=ILL]	_
+13	talonpoikiin	talonpoikiin	talonpoika	N	N|Pl|Ill	9	mod	[POS=NOUN][NUM=PL][CASE=ILL]	_
+14	sekä	sekä	sekä	Pcle	Pcle|CC	16	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+15	muuhun	muuhun	muu	Pron	Pron|Qnt|Sg|Ill	16	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=ILL]	_
+16	maalaisväestöön	maalaisväestöön	maalaisväestö	N	N|Sg|Ill	13	conjunct	[POS=NOUN][NUM=SG][CASE=ILL]	_
+17	,	,	,	Pun	Pun	16	dep	[POS=PUNCTUATION]	_
+18	papistoon	papistoon	papisto	N	N|Sg|Ill	16	conjunct	[POS=NOUN][NUM=SG][CASE=ILL]	_
+19	,	,	,	Pun	Pun	18	dep	[POS=PUNCTUATION]	_
+20	virkamiehistöön	virkamiehistöön	virkamiehistö	N	N|Sg|Ill	18	conjunct	[POS=NOUN][NUM=SG][CASE=ILL]	_
+21	ja	ja	ja	Pcle	Pcle|CC	26	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+22	muuhun	muuhun	muu	Pron	Pron|Qnt|Sg|Ill	26	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=SG][CASE=ILL]	_
+23	koulutettuun	koulutettuun	koulutettu	A	A|Sg|Ill	26	attr	[POS=ADJECTIVE][NUM=SG][CASE=ILL]	_
+24	ja	ja	ja	Pcle	Pcle|CC	25	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+25	sivistyneeseen	sivistyneeseen	sivistynyt	A	A|Sg|Ill	23	conjunct	[POS=ADJECTIVE][NUM=SG][CASE=ILL]	_
+26	keskiluokkaan	keskiluokkaan	keskiluokka	N	N|Sg|Ill	20	conjunct	[POS=NOUN][NUM=SG][CASE=ILL]	_
+27	.	.	.	Pun	Pun	26	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Lapuan	Lapuan	Lapua	N	N|Prop|Sg|Gen	2	attr	[POS=NOUN][PROPER=PROPER][NUM=SG][CASE=GEN]	_
+2	Liike	Liike	liike	N	N|Sg|Nom	6	subj	[POS=NOUN][NUM=SG][CASE=NOM]	_
+3	Ry	Ry	Ry	N	N|Abbr|Sg|Nom	2	mod	[POS=NOUN][SUBCAT=ABBREVIATION][NUM=SG][CASE=NOM]	_
+4	sen	sen	se	Pron	Pron|Dem|Sg|Gen	6	advl	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=GEN]	_
+5	sijaan	sijaan	sijaan	Adp	Adp	4	phrm	[POS=ADPOSITION]	_
+6	syntyi	syntyi	syntyä	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+7	kansanliikkeen	kansanliikkeen	kansanliike	N	N|Sg|Gen	9	subj	[POS=NOUN][NUM=SG][CASE=GEN]	_
+8	asteittaisen	asteittaisen	asteittainen	A	A|Sg|Gen	9	attr	[POS=ADJECTIVE][NUM=SG][CASE=GEN]	_
+9	radikalisoitumisen	radikalisoitumisen	radikalisoituminen	N	N|Sg|Gen	6	advl	[POS=NOUN][NUM=SG][CASE=GEN]	_
+10	myötä	myötä	myötä	Adp	Adp	9	phrm	[POS=ADPOSITION]	_
+11	.	.	.	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+
+#None
+1	Sen	Sen	se	Pron	Pron|Dem|Sg|Gen	3	attr	[POS=PRONOUN][SUBCAT=DEMONSTRATIVE][NUM=SG][CASE=GEN]	_
+2	aktiiviseen	aktiiviseen	aktiivinen	A	A|Sg|Ill	3	attr	[POS=ADJECTIVE][NUM=SG][CASE=ILL]	_
+3	kannattajakuntaan	kannattajakuntaan	kannattajakunta	N	N|Sg|Ill	4	advl	[POS=NOUN][NUM=SG][CASE=ILL]	_
+4	kuului	kuului	kuulua	V	V|Act|Ind|Past|Sg3	0	main	[POS=VERB][VOICE=ACT][MOOD=INDV][TENSE=PAST][PERS=SG3]	_
+5	ns.	ns.	ns.	Pcle	Pcle|Abbr	6	attr	[POS=PARTICLE][SUBCAT=ABBREVIATION]	_
+6	ylempää	ylempää	ylempi	A	A|Cmp|Sg|Par	7	attr	[POS=ADJECTIVE][CMP=CMP][NUM=SG][CASE=PAR]	_
+7	keskiluokkaa	keskiluokkaa	keskiluokka	N	N|Sg|Par	4	subj	[POS=NOUN][NUM=SG][CASE=PAR]	_
+8	eli	eli	eli	Pcle	Pcle|CC	10	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+9	korkeita	korkeita	korkea	A	A|Pl|Par	10	attr	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+10	virkamiehiä	virkamiehiä	virkamies	N	N|Pl|Par	7	mod	[POS=NOUN][NUM=PL][CASE=PAR]	_
+11	,	,	,	Pun	Pun	10	dep	[POS=PUNCTUATION]	_
+12	varakkaampaa	varakkaampaa	varakas	A	A|Cmp|Sg|Par	13	attr	[POS=ADJECTIVE][CMP=CMP][NUM=SG][CASE=PAR]	_
+13	sivistyneistöä	sivistyneistöä	sivistyneistö	N	N|Sg|Par	10	conjunct	[POS=NOUN][NUM=SG][CASE=PAR]	_
+14	,	,	,	Pun	Pun	13	dep	[POS=PUNCTUATION]	_
+15	arvovaltaisempaa	arvovaltaisempaa	arvovaltainen	A	A|Cmp|Sg|Par	16	attr	[POS=ADJECTIVE][CMP=CMP][NUM=SG][CASE=PAR]	_
+16	papistoa	papistoa	papisto	N	N|Sg|Par	13	conjunct	[POS=NOUN][NUM=SG][CASE=PAR]	_
+17	,	,	,	Pun	Pun	16	dep	[POS=PUNCTUATION]	_
+18	vaikutusvaltaisia	vaikutusvaltaisia	vaikutusvaltainen	A	A|Pl|Par	19	attr	[POS=ADJECTIVE][NUM=PL][CASE=PAR]	_
+19	sotilasjohtajia	sotilasjohtajia	sotilasjohtaja	N	N|Pl|Par	16	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+20	sekä	sekä	sekä	Pcle	Pcle|CC	21	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+21	teollisuusjohtajia	teollisuusjohtajia	teollisuusjohtaja	N	N|Pl|Par	19	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+22	ja	ja	ja	Pcle	Pcle|CC	25	phrm	[POS=PARTICLE][SUBCAT=CONJUNCTION][CONJ=COORD]	_
+23	muita	muita	muu	Pron	Pron|Qnt|Pl|Par	25	attr	[POS=PRONOUN][SUBCAT=QUANTOR][NUM=PL][CASE=PAR]	_
+24	yritysmaailman	yritysmaailman	yritysmaailma	N	N|Sg|Gen	25	attr	[POS=NOUN][NUM=SG][CASE=GEN]	_
+25	edustajia	edustajia	edustaja	N	N|Pl|Par	21	conjunct	[POS=NOUN][NUM=PL][CASE=PAR]	_
+26	.	.	.	Pun	Pun	25	dep	[POS=PUNCTUATION]	_
+
+#End_of_FinnTreeBank2
+
